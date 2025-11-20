@@ -1,0 +1,1921 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0" tvg-name="Sochi Music" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/0.jpg" epg="true", Sochi Music
+#EXTGRP:Музыкальные
+http://levshanov.tlkf.ru:8080/live/haier.php?id=7403
+#EXTINF:-1 tvg-id="711" tvg-name="Наша Сибирь 4 K" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/711.jpg" epg="true", Наша Сибирь 4 K
+#EXTGRP:Познавательные
+http://levshanov.tlkf.ru:8080/live/haier.php?id=3927
+#EXTINF:-1 tvg-id="712" tvg-name="Глухарь" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/712.jpg" epg="true", Глухарь
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal24_SD
+#EXTINF:-1 tvg-id="713" tvg-name="Солдаты" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/713.jpg" epg="true", Солдаты
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_5
+#EXTINF:-1 tvg-id="714" tvg-name="Советские фильмы" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/714.jpg" epg="true", Советские фильмы
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
+#EXTINF:-1 tvg-id="715" tvg-name="Боевики" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/715.jpg" epg="true", Боевики
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
+#EXTINF:-1 tvg-id="716" tvg-name="Ужасы" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/716.jpg" epg="true", Ужасы
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_9
+#EXTINF:-1 tvg-id="717" tvg-name="Аниме" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/717.jpg" epg="true", Аниме
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
+#EXTINF:-1 tvg-id="718" tvg-name="Исторический" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/718.jpg" epg="true", Исторический
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_20_hd
+#EXTINF:-1 tvg-id="719" tvg-name="Пятницкий" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/719.jpg" epg="true", Пятницкий
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
+#EXTINF:-1 tvg-id="720" tvg-name="Карпов" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/720.jpg" epg="true", Карпов
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal26_SD
+#EXTINF:-1 tvg-id="721" tvg-name="Улицы разбитых фонарей" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/721.jpg" epg="true", Улицы разбитых фонарей
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
+#EXTINF:-1 tvg-id="722" tvg-name="6 кадров" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/722.jpg" epg="true", 6 кадров
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
+#EXTINF:-1 tvg-id="723" tvg-name="Евлампия Романова" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/723.jpg" epg="true", Евлампия Романова
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+#EXTINF:-1 tvg-id="724" tvg-name="Мажор" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/724.jpg" epg="true", Мажор
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
+#EXTINF:-1 tvg-id="725" tvg-name="Взвешенные люди" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/725.jpg" epg="true", Взвешенные люди
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
+#EXTINF:-1 tvg-id="726" tvg-name="След" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/726.jpg" epg="true", След
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
+#EXTINF:-1 tvg-id="727" tvg-name="Ментовские войны" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/727.jpg" epg="true", Ментовские войны
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
+#EXTINF:-1 tvg-id="728" tvg-name="Любовь и тайны Тумахана" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/728.jpg" epg="true", Любовь и тайны Тумахана
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_6
+#EXTINF:-1 tvg-id="729" tvg-name="Вне закона" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/729.jpg" epg="true", Вне закона
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_8
+#EXTINF:-1 tvg-id="730" tvg-name="Мент в законе" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/730.jpg" epg="true", Мент в законе
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
+#EXTINF:-1 tvg-id="731" tvg-name="Комедии" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/731.jpg" epg="true", Комедии
+#EXTGRP:Кинозалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
+#EXTINF:-1 tvg-id="1" tvg-name="Первый канал" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/1.jpg" epg="true", Первый канал
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/14G21ak30rst-smkwhtSuA,1763672402/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Россия 1" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/2.jpg" epg="true", Россия 1
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/7ZeGYP7Aw_uzESlanOq5lw,1763672403/streaming/rossia1ott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="НТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/3.jpg" epg="true", НТВ
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/QIHKkA4x2-EMq3dEwzLQwA,1763672403/streaming/ntvnn/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="РЕН ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/4.jpg" epg="true", РЕН ТВ
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/vcKFocJMacjslORFy_SEMg,1763672404/streaming/rentvott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="СТС" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/5.jpg" epg="true", СТС
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/AautZl7CHosf3WIBD8x8hg,1763672404/streaming/stsott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="ТВ-3" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/6.jpg" epg="true", ТВ-3
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/8I374KJN32g1k2uSj2mYPQ,1763672405/streaming/tv3ott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="ТВ Центр" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/7.jpg" epg="true", ТВ Центр
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/xizi3hlYeYZ3eizcV7uwjw,1763672406/streaming/tvc/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="ТВ Центр Int" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/8.jpg" epg="true", ТВ Центр Int
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/0yHOAmHFx_gNESLZkDWR1w,1763672406/streaming/tvc_int/324/1/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Пятый канал" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/9.jpg" epg="true", Пятый канал
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/hjaiv0JBD4ppvCTb7jdqUA,1763672407/streaming/5kanalott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Домашний" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/10.jpg" epg="true", Домашний
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/6yYccqPUZDmyr0gPHeL3jQ,1763672407/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="ОТР" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/11.jpg" epg="true", ОТР
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/tyb5ec7mmc24gntDV8CxMQ,1763672408/streaming/otr/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="ТНТ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/12.jpg" epg="true", ТНТ
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/BLNdUVOUxpjHPAvp4BE3aw,1763672409/streaming/tntott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="Пятница!" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/13.jpg" epg="true", Пятница!
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/kTYM6MLV21ju4-EfDsDEBQ,1763672409/streaming/pyatnicaott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Суббота!" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/14.jpg" epg="true", Суббота!
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/Y0WoFyVSYTIY_QLInrDT1Q,1763672409/streaming/superott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="Звезда" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/15.jpg" epg="true", Звезда
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/Z5bT3pe78DVQso4LuaxNwQ,1763672410/streaming/zvezda/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="Звезда плюс" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/16.jpg" epg="true", Звезда плюс
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/WqFXhCYsObktMvg2j1bZxA,1763672411/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="МИР" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/17.jpg" epg="true", МИР
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/b_iY9u-_9Y6SA8ST4Q3vvA,1763672411/streaming/mirott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Россия К" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/18.jpg" epg="true", Россия К
+#EXTGRP:Общероссийские
+https://mhd128.iptv2022.com/p/vDZnATNXlFeTyZqw6_c5hQ,1763672412/streaming/rossiak/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="HD Media" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/19.jpg" epg="true", HD Media
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/kC_yUlZdYBjHIupPqzpHsw,1763672412/streaming/hdmedia/324/1/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="КиноМеню HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/20.jpg" epg="true", КиноМеню HD
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/1sfOpaSx9SJoBcATiwjREQ,1763672413/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="Кинопремьера HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/21.jpg" epg="true", Кинопремьера HD
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/6TAO6fOb-u5lwe_PburqEQ,1763672414/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="Киносемья" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/22.jpg" epg="true", Киносемья
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/SL9Ig1OKgFqUraqeMnP-qw,1763672414/streaming/film-families/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="Киносвидание" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/23.jpg" epg="true", Киносвидание
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/fcgLmbDcHp_nbv5Mgb-_WA,1763672415/streaming/film-watching/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="Кинохит" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/24.jpg" epg="true", Кинохит
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/qDkUEpTb39ioHLMRMFStyQ,1763672415/streaming/film-hit/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="Мужское кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/25.jpg" epg="true", Мужское кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/9tEblYSHpbstlqzfHzktgQ,1763672416/streaming/male-movie/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="Киноужас" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/26.jpg" epg="true", Киноужас
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/_Eny3tytStRwnd8xcHOWnA,1763672417/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Индийское кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/27.jpg" epg="true", Индийское кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/kVkmpWUbrQb-N94qAGM44g,1763672417/streaming/india/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="Киносерия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/28.jpg" epg="true", Киносерия
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/a2AjO6U0a1xtsF_b2LLHBA,1763672418/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Родное кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/29.jpg" epg="true", Родное кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/VjCMxlOHgUQi_S7e0IrqJg,1763672418/streaming/rodnoe/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Киномикс" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/30.jpg" epg="true", Киномикс
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/hXGQ-yhz-0qA13NAy5g9kg,1763672419/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="Наше новое кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/31.jpg" epg="true", Наше новое кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/jot-6ux8GtmWwQMO7KdFCw,1763672419/streaming/nashe_n_kino/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="КиноСезон" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/32.jpg" epg="true", КиноСезон
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/x6JkFBtjxg0UcGgHbMcyTQ,1763672420/streaming/kinosezon/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="Блокбастер" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/33.jpg" epg="true", Блокбастер
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/04ETrafgJ5YGqiwvHYi8BA,1763672421/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="Про любовь" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/34.jpg" epg="true", Про любовь
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/AdN9RODHXgRPUyoouewGUw,1763672421/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="Наше мужское" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/35.jpg" epg="true", Наше мужское
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/APp--oXpCP27sptpZg_9Ww,1763672422/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="Хит HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/36.jpg" epg="true", Хит HD
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/ADU8HagH69IzkvS8nUu-mg,1763672422/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="Наш кинопоказ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/37.jpg" epg="true", Наш кинопоказ
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/0uf4O0lB7NrAdZBFtztUkg,1763672423/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="Камеди" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/38.jpg" epg="true", Камеди
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/HdJ4suFXX4irnGz4phcg9w,1763672423/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="Zee-TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/39.jpg" epg="true", Zee-TV
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/5DZMjDAwNFCuE0Hcv_nPCA,1763672424/streaming/zeetv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="Ключ HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/40.jpg" epg="true", Ключ HD
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/RZ3ySB6OjrB3mBDCS7sVFw,1763672424/streaming/kluchhd/324/1/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="Timeless Dizi Channel" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/41.jpg" epg="true", Timeless Dizi Channel
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/aRbj_35tWiiRfJLskffWnQ,1763672425/streaming/dizitv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="Kinoliving" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/42.jpg" epg="true", Kinoliving
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/Ngw49zePu-AclLMq6aZT5A,1763672425/streaming/kinoliving/324/1/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="Star Family" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/43.jpg" epg="true", Star Family
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/dzW9TIvnve59jRmo45kmNg,1763672425/streaming/star_family/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="Star Cinema" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/44.jpg" epg="true", Star Cinema
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/FONnjAtWqcD6h_PYMx-MRA,1763672426/streaming/star_cinema/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="Bolt (RU)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/45.jpg" epg="true", Bolt (RU)
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/A3Z4DcdM4_0Bi_-SEVQC9Q,1763672426/streaming/bolt/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name=".Red" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/46.jpg" epg="true", .Red
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/_dHLzzOOWZO2guoExf-OXw,1763672427/streaming/red/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name=".Sci-Fi" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/47.jpg" epg="true", .Sci-Fi
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/679hFAv5Us--49pjPrZfuA,1763672427/streaming/sci-fi/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name=".Black" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/48.jpg" epg="true", .Black
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/ksTAGedPmpcaIc2fmG6Jpg,1763672428/streaming/black/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="Novella TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/49.jpg" epg="true", Novella TV
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/Xkad0LCmkM02xxi5kahuvQ,1763672429/streaming/telenovella/324/1/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="Horror TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/50.jpg" epg="true", Horror TV
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/aZ6NT2d3Tr2eemJFElx9lQ,1763672429/streaming/horror_tv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="День Победы" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/51.jpg" epg="true", День Победы
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/lyHDHgjKg9h2lnzlXk915A,1763672429/streaming/den-pobedi/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="Сапфир" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/52.jpg" epg="true", Сапфир
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/hOB4BQ5guwSI_z1eAC4hVQ,1763672430/streaming/sapfir/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="Кинеко" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/53.jpg" epg="true", Кинеко
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/JW7mrsLRJM51G-mpHi3Y0Q,1763672430/streaming/kineko/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="FilmBox" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/54.jpg" epg="true", FilmBox
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/_j9lEgr9UBovGd5pVvN6Dg,1763672431/streaming/filmbox/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="Любимое кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/55.jpg" epg="true", Любимое кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/6cGIs-_VCBxEuIvfceaAJA,1763672431/streaming/lubimoe_kino/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="Еврокино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/56.jpg" epg="true", Еврокино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/URYd7gMusPphgJMKngO1SQ,1763672432/streaming/eurokino/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="Феникс+ Кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/57.jpg" epg="true", Феникс+ Кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/K4YwtNqcC7Rw7CcWb4GLtw,1763672432/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="TVM Channel" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/58.jpg" epg="true", TVM Channel
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/j12D4713TqaI5QvY_8loeA,1763672433/streaming/tvm-tv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="Trash" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/59.jpg" epg="true", Trash
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/41Zx-9YRqTf7iPr5QMxKkQ,1763672434/streaming/trash/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="Иллюзион+" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/60.jpg" epg="true", Иллюзион+
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/ugSHNS7LaBkVaJzlfaET2g,1763672434/streaming/illuzionplus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="Кинопоказ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/61.jpg" epg="true", Кинопоказ
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/YIg21HUsT9v6CNylQ9RFlg,1763672434/streaming/kinopokaz/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="Кинокомедия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/62.jpg" epg="true", Кинокомедия
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/olE08cVnSlA3pzawOrPaYA,1763672435/streaming/kinocomedia/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="Русский иллюзион" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/63.jpg" epg="true", Русский иллюзион
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/LGDld109vPVBO4QLgeMEMA,1763672435/streaming/rusilluzion/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="64" tvg-name="Тайна" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/64.jpg" epg="true", Тайна
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/m0DSJqTKgEZ7dr-bShMifw,1763672436/streaming/taina/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="Anime TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/65.jpg" epg="true", Anime TV
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/rtoW_Slpoqm13pYQ0E3cdg,1763672436/streaming/anime_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="Дорама" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/66.jpg" epg="true", Дорама
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/bSL1d8wSzlXkIIPNYd-Q1Q,1763672437/streaming/dorama/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="КиноСат" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/67.jpg" epg="true", КиноСат
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/pAZIl0lQG91xpKeAIcsLEQ,1763672437/streaming/kinosat/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="Классика кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/68.jpg" epg="true", Классика кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/GbdhqAbEFJuRI-qAn6ReRw,1763672438/streaming/k_kino/324/1/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="Советское кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/69.jpg" epg="true", Советское кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/szBFVkPpFS9L5E4n0pUXOQ,1763672438/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="НТВ сериал" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/70.jpg" epg="true", НТВ сериал
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/lEsNM75sY1psmMzrUwEIYA,1763672439/streaming/ntvserial/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="О!Кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/71.jpg" epg="true", О!Кино
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/v2Bw0RzDmZ1PZlVIDwDEqg,1763672440/streaming/okino/324/1/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="Shot TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/72.jpg" epg="true", Shot TV
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/XLwhqmwIl6s_kY0oK1sWtQ,1763672440/streaming/shottv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Карусель" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/73.jpg" epg="true", Карусель
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/BzLpRZ3IZ7_oz4l8K-W5sA,1763672440/streaming/karusel/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="Солнце" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/74.jpg" epg="true", Солнце
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/cX3MpQKI-G3Dw511E9gLAQ,1763672441/streaming/solnce/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="Мультимания" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/75.jpg" epg="true", Мультимания
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/cBjGMhZgAFMEayZOchHuZg,1763672441/streaming/multimania/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="Уникум" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/76.jpg" epg="true", Уникум
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/C2Tq05u4QdAOb737KtdfgQ,1763672442/streaming/detskiy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="СуперГерой" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/77.jpg" epg="true", СуперГерой
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/Fm3UPAxAoRpW1lxIvdm95g,1763672442/streaming/malish/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="Смайлик" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/78.jpg" epg="true", Смайлик
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/kj1Uy3BzekwiqFcG4JnZDA,1763672443/streaming/smile/324/1/index.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="Капитан Фантастика HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/79.jpg" epg="true", Капитан Фантастика HD
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/1Aw7ljtmuJdtxpByoW94bg,1763672443/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="СТС Kids" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/80.jpg" epg="true", СТС Kids
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/6Rql7ZGxrgacglUOVSJydA,1763672443/streaming/stskids/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="Чижик HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/81.jpg" epg="true", Чижик HD
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/9t1pFskaV5XYxjWJTl5g3w,1763672444/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="Anime Kids" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/82.jpg" epg="true", Anime Kids
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/KewQqh79UOGz2YXYQNTU1g,1763672444/streaming/anime_kids/324/1/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="В Гостях у сказки" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/83.jpg" epg="true", В Гостях у сказки
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/FwSUK6MGA3Sd5rKswm8cPA,1763672445/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="Рыжий (сурд.)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/84.jpg" epg="true", Рыжий (сурд.)
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/F_ilACh11NhZiOzTcwoIOQ,1763672446/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="Детский Мир" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/85.jpg" epg="true", Детский Мир
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/Vd8BjsHweFEdwXkDuJ1Wkg,1763672446/streaming/detmir/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="ТипТоп" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/86.jpg" epg="true", ТипТоп
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/IU1Y4Dlrgu20kvyXby5Grw,1763672447/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="Лёва" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/87.jpg" epg="true", Лёва
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/NMGFmugz5NCc4XEmY2sM8g,1763672447/streaming/levatv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="МультСезон" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/88.jpg" epg="true", МультСезон
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/T0aSjeNGgWecUArlMQW3hg,1763672447/streaming/multsezon/324/1/index.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="Детское кино" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/89.jpg" epg="true", Детское кино
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/KaiXBHzqFwRxcOQfIQSRHQ,1763672448/streaming/det_kino/324/1/index.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="Duck TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/90.jpg" epg="true", Duck TV
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/ytYe1ZA4bFZX_3THdun7fQ,1763672448/streaming/ducktv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="Пингвин" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/91.jpg" epg="true", Пингвин
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/iP08rFEztxsyOepI7b9W_A,1763672449/streaming/pingvin/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="Сказки Зайки" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/92.jpg" epg="true", Сказки Зайки
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/rrlP1ruBnKfjjP9LSE5bcA,1763672449/streaming/zaj/324/1/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="Советские мультфильмы" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/93.jpg" epg="true", Советские мультфильмы
+#EXTGRP:Детские
+https://mhd128.iptv2022.com/p/m9b2UU3fEunLjtpTnxqfMg,1763672450/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="Авто плюс" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/94.jpg" epg="true", Авто плюс
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/oIgnS8DxVVH73yUvaFOSQw,1763672450/streaming/avtoplus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="95" tvg-name="АВТО24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/95.jpg" epg="true", АВТО24
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/wlbm6IfC_rLnBc0ornyb6Q,1763672451/streaming/avto24/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="Дикий" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/96.jpg" epg="true", Дикий
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/BJ9815ZTk1UmHyYPexaKrg,1763672451/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="Драйв" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/97.jpg" epg="true", Драйв
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/54kcoaZwFN-vip0fItvgGw,1763672452/streaming/drive/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="Оружие" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/98.jpg" epg="true", Оружие
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/DH95o4qwUiISOFdA-FZ3yg,1763672452/streaming/orujie/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="Ратник" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/99.jpg" epg="true", Ратник
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/yVVU27tBC5IAGyPPQ81Dlw,1763672453/streaming/ratnik/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="Арсенал" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/100.jpg" epg="true", Арсенал
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/IAawOGhm_RXsI4w_G4xDXQ,1763672454/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Точка отрыва" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/101.jpg" epg="true", Точка отрыва
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/1QFcgMa1cTktOCnZJaqBkQ,1763672454/streaming/tochkaotriva/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="Охота и рыбалка" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/102.jpg" epg="true", Охота и рыбалка
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/K7Vbi_6QBipc9iNRBj4CJg,1763672455/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Дикая охота HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/103.jpg" epg="true", Дикая охота HD
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/VTDjpfAacJ_9k0rBOnNCPQ,1763672455/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="Охотник и Рыболов HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/104.jpg" epg="true", Охотник и Рыболов HD
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/q00Lk937_OaDUFeBrRRy5A,1763672455/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="Рыболов" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/105.jpg" epg="true", Рыболов
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/GTEpY6b4wFTvXiTztxx5GA,1763672456/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="Дикая рыбалка HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/106.jpg" epg="true", Дикая рыбалка HD
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/gVgHqhrgI-nbDhdCeXMgdQ,1763672457/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="Диалоги о рыбалке" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/107.jpg" epg="true", Диалоги о рыбалке
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/8jxMPegFuvMRp51pIdyz9A,1763672457/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="Наша тема" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/108.jpg" epg="true", Наша тема
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/XVCO5TTmQ4a8EkNaXoMKPQ,1763672458/streaming/mytheme/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="Мужской" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/109.jpg" epg="true", Мужской
+#EXTGRP:Мужские
+https://mhd128.iptv2022.com/p/9CBRCY2x0uCLgFKQd_P0Hg,1763672459/streaming/male/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="Joy cook" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/110.jpg" epg="true", Joy cook
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/xtUvu1vUGVdq09Z2II8HVA,1763672459/streaming/joycook/324/1/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="Еда" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/111.jpg" epg="true", Еда
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/J3jyfmzCyOHt8LAbSqfwJg,1763672460/streaming/eda/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="Food Time" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/112.jpg" epg="true", Food Time
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/zh7ampKy1RPYBJ5hp3LG3Q,1763672460/streaming/edahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="Кухня ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/113.jpg" epg="true", Кухня ТВ
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/wayHn-tqb57-Szsya4Q51g,1763672460/streaming/kuhnya/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="Первый Вегетарианский" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/114.jpg" epg="true", Первый Вегетарианский
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/jOaRt_uxJFvPAb2N0nONow,1763672461/streaming/firstvegan/324/1/index.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="Здоровье" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/115.jpg" epg="true", Здоровье
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/wd8-jTNi8S3XcxBI6hX5Gw,1763672462/streaming/zdrav/324/1/index.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="Здоровое ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/116.jpg" epg="true", Здоровое ТВ
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/I7xeqQ_VTv2LCzwv5L1NfA,1763672462/streaming/zdorovoe/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="Живи Активно" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/117.jpg" epg="true", Живи Активно
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/aomDQNDiTkF93E9aLqbCiw,1763672463/streaming/zhivi_aktivno/324/1/index.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="Ю" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/118.jpg" epg="true", Ю
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/6in3tRZhjT3nTp8HoBbsUQ,1763672463/streaming/channelu/324/1/index.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="Усадьба" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/119.jpg" epg="true", Усадьба
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/Gr_ilMrcLd-LokHUOkpmiw,1763672464/streaming/usadba/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="Конный Мир" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/120.jpg" epg="true", Конный Мир
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/OqeAK_7dsD1Dy2sF87yMDQ,1763672465/streaming/konniy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="121" tvg-name="Живи!" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/121.jpg" epg="true", Живи!
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/d0gzA2lFxU4GbY325f4NCw,1763672465/streaming/jivi/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="Тонус ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/122.jpg" epg="true", Тонус ТВ
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/AYThVUlSYEB3m3gMjMEVWg,1763672466/streaming/tonus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="Women's Magazine" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/123.jpg" epg="true", Women's Magazine
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/rZeveIhGEF81M3EvZqODJQ,1763672466/streaming/womens_magazine/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="124" tvg-name="Fashion TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/124.jpg" epg="true", Fashion TV
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/ZFSD-TrXRvRSr8TNaDaeSw,1763672467/streaming/fashion/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="125" tvg-name="World Fashion Channel HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/125.jpg" epg="true", World Fashion Channel HD
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/usmVRWG6nGyaQLeYfwaW7w,1763672467/streaming/world_fashion/324/1/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="ТДК" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/126.jpg" epg="true", ТДК
+#EXTGRP:Женские
+https://mhd128.iptv2022.com/p/YzyS-0MTnYSL1b4V-nxe0g,1763672468/streaming/tdk/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="Союз" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/127.jpg" epg="true", Союз
+#EXTGRP:Религиозные
+https://mhd128.iptv2022.com/p/gBYK2LcCsg3B_Fk-jxAZaw,1763672468/streaming/souz/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="МузСоюз" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/128.jpg" epg="true", МузСоюз
+#EXTGRP:Религиозные
+https://mhd128.iptv2022.com/p/jAm6ahsA9dNPno4ryyXHFA,1763672469/streaming/muzsouz/324/1/index.m3u8
+#EXTINF:-1 tvg-id="129" tvg-name="Спас" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/129.jpg" epg="true", Спас
+#EXTGRP:Религиозные
+https://mhd128.iptv2022.com/p/KhTmtKyFo4PbPUOYkaDKCQ,1763672470/streaming/spas/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="Три Ангела" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/130.jpg" epg="true", Три Ангела
+#EXTGRP:Религиозные
+https://mhd128.iptv2022.com/p/X-o-6ZNpxv92lJgCrN_Ygg,1763672470/streaming/3angel/324/1/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="Радость моя" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/131.jpg" epg="true", Радость моя
+#EXTGRP:Религиозные
+https://mhd128.iptv2022.com/p/Pf9DZGyYT4iCcDt_FbMZew,1763672471/streaming/radost/324/1/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="ТБН" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/132.jpg" epg="true", ТБН
+#EXTGRP:Религиозные
+https://mhd128.iptv2022.com/p/1ALstJnfc4gdP9CB7Fl9Pw,1763672472/streaming/tbn/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="TBN Baltia" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/133.jpg" epg="true", TBN Baltia
+#EXTGRP:Религиозные
+https://mhd128.iptv2022.com/p/uRKifZMG1DwmWv7VPEGhVA,1763672472/streaming/tbn_baltic/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="Надежда" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/134.jpg" epg="true", Надежда
+#EXTGRP:Религиозные
+https://mhd128.iptv2022.com/p/uftG5qEXgbny864YwMH3ew,1763672473/streaming/nadejda/324/1/index.m3u8
+#EXTINF:-1 tvg-id="135" tvg-name="Перпетуум Мобиле" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/135.jpg" epg="true", Перпетуум Мобиле
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/eFwqGwCcKw5VKNA_9h5-VQ,1763672473/streaming/pmobile/324/1/index.m3u8
+#EXTINF:-1 tvg-id="136" tvg-name="The Explorers" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/136.jpg" epg="true", The Explorers
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/XjpnRq9D18qIiH-3ocNEoA,1763672474/streaming/explorers/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="Терра Инкогнита" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/137.jpg" epg="true", Терра Инкогнита
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/NR6yFO84sSk1C-ILm6BV2A,1763672474/streaming/terra/324/1/index.m3u8
+#EXTINF:-1 tvg-id="138" tvg-name="Неизвестная планета" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/138.jpg" epg="true", Неизвестная планета
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/kWOQ-vekXhjMlXrYZDnWeg,1763672475/streaming/np/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="139" tvg-name="Живая природа" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/139.jpg" epg="true", Живая природа
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/tCtGVWaDdHKajZ7m-0u1Cw,1763672476/streaming/livenature/324/1/index.m3u8
+#EXTINF:-1 tvg-id="140" tvg-name="Глазами туриста" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/140.jpg" epg="true", Глазами туриста
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/xPOIrTUop-c8WRcZB9XTUw,1763672476/streaming/tourist_eyes/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="Тайны Галактики" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/141.jpg" epg="true", Тайны Галактики
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/beFGXzpa43L0YUm818oG1Q,1763672477/streaming/taina-galaxy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="Загородная Жизнь" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/142.jpg" epg="true", Загородная Жизнь
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/xOC_qCObMIaC1spFIajkrA,1763672477/streaming/zagorod/324/1/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="Insight TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/143.jpg" epg="true", Insight TV
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/jMt8EuIjw1fNudH7dmEKpw,1763672478/streaming/insight/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="RTG" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/144.jpg" epg="true", RTG
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/P6CLWYFc282Xc4nz2UqLPQ,1763672478/streaming/rtg/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="RTG HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/145.jpg" epg="true", RTG HD
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/Vl-IUkgx376r0mxOp6euHw,1763672479/streaming/rtghd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="Travel+ Adventure HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/146.jpg" epg="true", Travel+ Adventure HD
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/3M1Fjde7s9_IkKJ97R1laA,1763672479/streaming/travelhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="147" tvg-name="Домашние животные" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/147.jpg" epg="true", Домашние животные
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/c-j3q07rwTNUeRHBlT5GTA,1763672480/streaming/homejivotnie/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="Психология 21" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/148.jpg" epg="true", Психология 21
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/JiNGv4QpXI7_Mf7sAZthwA,1763672481/streaming/psihologia/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="Zooпарк" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/149.jpg" epg="true", Zooпарк
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/azrm2at7PLkm7PxVEikoVw,1763672481/streaming/zoopark/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="150" tvg-name="365 дней" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/150.jpg" epg="true", 365 дней
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/9lR_d-LToSmsp1poANn2_A,1763672482/streaming/365day/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="151" tvg-name="Большая Азия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/151.jpg" epg="true", Большая Азия
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/1MoYgdT37JSPk2U9WoMqfw,1763672482/streaming/bigasia/324/1/index.m3u8
+#EXTINF:-1 tvg-id="152" tvg-name="UNIVER TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/152.jpg" epg="true", UNIVER TV
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/8xLCaKKIu3-R0KS5h-0etA,1763672483/streaming/univertv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="153" tvg-name="Открытый мир" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/153.jpg" epg="true", Открытый мир
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/ZF8dGm0B9OeXzwq_ZUCQ3Q,1763672484/streaming/openmir/324/1/index.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="Travelxp" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/154.jpg" epg="true", Travelxp
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/PYXaBu48ASROe_mLlwIeLg,1763672484/streaming/travelxp/324/1/index.m3u8
+#EXTINF:-1 tvg-id="155" tvg-name="Big Planet" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/155.jpg" epg="true", Big Planet
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/v86R-6aB5jQOm7dIP738lw,1763672485/streaming/big_planet/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="#КтоКуда" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/156.jpg" epg="true", #КтоКуда
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/OSDGvGo06FBI30fHqbHuLQ,1763672486/streaming/hobbies/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="Приключения HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/157.jpg" epg="true", Приключения HD
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/UCI8ZOxdGIiPUQH0hMZy0Q,1763672486/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="158" tvg-name="Космический" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/158.jpg" epg="true", Космический
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/HsstPalR_dGnMqGc7m9G9g,1763672487/streaming/eurekahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="159" tvg-name="Телепутешествия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/159.jpg" epg="true", Телепутешествия
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/7El1PSIj-Bcv20wpzsP4TA,1763672488/streaming/adventure/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="160" tvg-name="Зоо ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/160.jpg" epg="true", Зоо ТВ
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/22BM9FJIjVzA_U1CqbnvMQ,1763672488/streaming/zoo/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="161" tvg-name="Пес и Ко" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/161.jpg" epg="true", Пес и Ко
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/kdZGs8rxO_c4RQsU9Ku8SA,1763672489/streaming/pesiko/324/1/index.m3u8
+#EXTINF:-1 tvg-id="162" tvg-name="В мире животных HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/162.jpg" epg="true", В мире животных HD
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/JCwmN1C4VmbkN90GaKv2uQ,1763672489/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="163" tvg-name="Министерство Идей" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/163.jpg" epg="true", Министерство Идей
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/qteGBr1i2j8-ihRSUtaKEQ,1763672490/streaming/minidei/324/1/index.m3u8
+#EXTINF:-1 tvg-id="164" tvg-name="Нано" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/164.jpg" epg="true", Нано
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/LxH8gRevBeNZ74XHDoSn-g,1763672490/streaming/nano/324/1/index.m3u8
+#EXTINF:-1 tvg-id="165" tvg-name="Вопросы и ответы" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/165.jpg" epg="true", Вопросы и ответы
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/AKdzspUBn1p8vpWmluEluQ,1763672490/streaming/voprosi-otveti/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="Кто есть кто" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/166.jpg" epg="true", Кто есть кто
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/TN2KoV-WzsDPgyOWHp2OSQ,1763672491/streaming/whoiswho/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="Мособр ТВ (Москва)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/167.jpg" epg="true", Мособр ТВ (Москва)
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/at1ptdjDEtUIKAlJ55-w9Q,1763672492/streaming/mosobrtv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="168" tvg-name="ЕГЭ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/168.jpg" epg="true", ЕГЭ
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/MFOQrqKE1mYdAa9tEhX7zw,1763672492/streaming/ege/324/1/index.m3u8
+#EXTINF:-1 tvg-id="169" tvg-name="2x2" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/169.jpg" epg="true", 2x2
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/JDWFwLZ7AlAR7D-vrwzyEg,1763672493/streaming/2x2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="170" tvg-name="ЧЕ!" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/170.jpg" epg="true", ЧЕ!
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/VEZKSQHiSUDlwBfXZsjHAQ,1763672493/streaming/cheott/324/1/index.m3u8
+#EXTINF:-1 tvg-id="171" tvg-name="ТНТ4" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/171.jpg" epg="true", ТНТ4
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/nrvgzanwKEniqwFf4zXZhg,1763672494/streaming/tnt4ott/324/1/index.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="Калейдоскоп ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/172.jpg" epg="true", Калейдоскоп ТВ
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/WEps9HnzQRPzJ-M3aQtKiQ,1763672494/streaming/kaleidoskop/324/1/index.m3u8
+#EXTINF:-1 tvg-id="173" tvg-name="СТС Love" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/173.jpg" epg="true", СТС Love
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/AzTLZC5q9PEUEwLizTNVAg,1763672495/streaming/stsloveott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="174" tvg-name="Анекдот ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/174.jpg" epg="true", Анекдот ТВ
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/1CcCBSzEf9G-iWatpR6g6w,1763672496/streaming/anekdot/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Arirang" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/175.jpg" epg="true", Arirang
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/3UBqAN6PJVX1wR2IS0b-hg,1763672497/streaming/arirang/324/1/index.m3u8
+#EXTINF:-1 tvg-id="176" tvg-name="Ностальгия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/176.jpg" epg="true", Ностальгия
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/d-suaDBENgsM1rLRn5CoWw,1763672497/streaming/nostalgiya/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="177" tvg-name="TV BRICS" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/177.jpg" epg="true", TV BRICS
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/gXtrKPubto9XqHh6PX4w7Q,1763672498/streaming/briks/324/1/index.m3u8
+#EXTINF:-1 tvg-id="178" tvg-name="Зал суда" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/178.jpg" epg="true", Зал суда
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/gSdepyEL4MXCRnPihtjaIg,1763672498/streaming/zal_suda/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="179" tvg-name="Gagsnetwork" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/179.jpg" epg="true", Gagsnetwork
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/gSK9POLmJP1cbOjlm381rg,1763672498/streaming/gagsnetwork/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="180" tvg-name="Успех" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/180.jpg" epg="true", Успех
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/8K_Ft2CmQPq8j0TqoDjMbA,1763672500/streaming/uspeh/324/1/index.m3u8
+#EXTINF:-1 tvg-id="181" tvg-name="LUXURY" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/181.jpg" epg="true", LUXURY
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/t82FfgqrvYX6x-2SddVScA,1763672501/streaming/luxury/324/1/index.m3u8
+#EXTINF:-1 tvg-id="182" tvg-name="НТВ Стиль" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/182.jpg" epg="true", НТВ Стиль
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/KncMh8NDabvYoqep32-X4g,1763672501/streaming/ntvstyle/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="183" tvg-name="НТВ право" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/183.jpg" epg="true", НТВ право
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/oXBihafWDL9q336qDV1IDg,1763672501/streaming/ntvpravo/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="184" tvg-name="360" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/184.jpg" epg="true", 360
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/hNRi2FadOt5_pmQETBccrg,1763672502/streaming/360sd/324/1/index.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="РЖД" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/185.jpg" epg="true", РЖД
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/AQBP84cn6O2MRftj41pZkA,1763672502/streaming/rjd/324/1/index.m3u8
+#EXTINF:-1 tvg-id="186" tvg-name="Ретро ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/186.jpg" epg="true", Ретро ТВ
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/miaZn33Ti98JsxcWUgN4zA,1763672503/streaming/retro/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="187" tvg-name="8 Канал" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/187.jpg" epg="true", 8 Канал
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/yUMdCEZrLBrfhHgP3NFMoA,1763672503/streaming/8kanal/324/1/index.m3u8
+#EXTINF:-1 tvg-id="188" tvg-name="Точка ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/188.jpg" epg="true", Точка ТВ
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/d8MVAnd3uheio81s5-oyPQ,1763672504/streaming/tochka/324/1/index.m3u8
+#EXTINF:-1 tvg-id="189" tvg-name="E TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/189.jpg" epg="true", E TV
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/QMpBQvpcW8eyF081Pw4ZVA,1763672505/streaming/etv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="190" tvg-name="Global Star TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/190.jpg" epg="true", Global Star TV
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/F71v6domYWZjEkvSptCW1g,1763672505/streaming/global_star/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="191" tvg-name="ТВ ПРНК" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/191.jpg" epg="true", ТВ ПРНК
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/koUSbg2i2iZJZfLsnAzNFg,1763672506/streaming/1pnk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="192" tvg-name="Центральное ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/192.jpg" epg="true", Центральное ТВ
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/2LCLSZOTbgTqcFnrYeQrmg,1763672506/streaming/centrtv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="193" tvg-name="Загородный" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/193.jpg" epg="true", Загородный
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/SLztscjXOCfjXCT7UPFZVQ,1763672507/streaming/country/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="194" tvg-name="Ocean TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/194.jpg" epg="true", Ocean TV
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/RPbR3LxzWoqUcgEcOATdMQ,1763672507/streaming/oceantv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="195" tvg-name="Театр" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/195.jpg" epg="true", Театр
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/2-NUetl1UROF9JO-1k9s_Q,1763672508/streaming/theater/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="196" tvg-name="Матч!" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/196.jpg" epg="true", Матч!
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/6VekVhKwfXbrrgUsNvryqg,1763672508/streaming/matchott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="197" tvg-name="Матч! Страна" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/197.jpg" epg="true", Матч! Страна
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/c86h0c8GjrSN5JRKYawd1A,1763672509/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="198" tvg-name="Матч! Игра" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/198.jpg" epg="true", Матч! Игра
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/LQDAqUtahr8ZGHk1vdru6Q,1763672509/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="199" tvg-name="Матч! Арена" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/199.jpg" epg="true", Матч! Арена
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/3kG0yYXgFjmRv63beDwIoQ,1763672510/streaming/match_arena/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="200" tvg-name="Матч! Боец" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/200.jpg" epg="true", Матч! Боец
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/3TVuYKwcgsHWSjEkdMVxCQ,1763672510/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="201" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/201.jpg" epg="true", Матч! Футбол 1 HD
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/bLq_kSAZtL3OOX5UqLhAkw,1763672511/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/202.jpg" epg="true", Матч! Футбол 2 HD
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/xScVW0fd_r9W8cXVlcFOEw,1763672511/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="203" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/203.jpg" epg="true", Матч! Футбол 3 HD
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/8Qse1QGDVMAqLZzi_pkLjA,1763672512/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="204" tvg-name="Матч! Премьер HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/204.jpg" epg="true", Матч! Премьер HD
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/ljeWrAB82-8sX0QmRY_3XA,1763672512/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="205" tvg-name="Матч! Премьер" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/205.jpg" epg="true", Матч! Премьер
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/eFG3slBJvnuW2PH9hfNGdw,1763672513/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="206" tvg-name="Хоккей ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/206.jpg" epg="true", Хоккей ТВ
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/21UB26xk-rR_y621pUkyVw,1763672513/streaming/hokkeyniy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="ТВ Спорт" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/207.jpg" epg="true", ТВ Спорт
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/wfBDv4D109UlnE9wzx0QWg,1763672514/streaming/sportivniyhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="208" tvg-name="Мяч" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/208.jpg" epg="true", Мяч
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/eaXUA6vk-dJ8WmFXWROwaw,1763672514/streaming/footbolniyhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="209" tvg-name="KHL Prime" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/209.jpg" epg="true", KHL Prime
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/fnfmMPKkLyMz81K-LpR6_Q,1763672515/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="210" tvg-name="KHL" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/210.jpg" epg="true", KHL
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/tDgnE1nkjSfqs6A_8gTQCg,1763672515/streaming/khltv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="211" tvg-name="Моторспорт" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/211.jpg" epg="true", Моторспорт
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/ppGtAqwBjXP2mJ_WN6swaA,1763672516/streaming/moto_drive/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="212" tvg-name="Бокс ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/212.jpg" epg="true", Бокс ТВ
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/IPT6eITIzSkPC8Xiv4EzFw,1763672516/streaming/bokstv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="213" tvg-name="Старт" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/213.jpg" epg="true", Старт
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/eQIsd32Gu6Ajv35_qsN_eQ,1763672517/streaming/start/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="214" tvg-name="M-1 Global" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/214.jpg" epg="true", M-1 Global
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/w710-RtiG5vGZkqRjJiRLg,1763672517/streaming/m1global/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="215" tvg-name="Старт Триумф" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/215.jpg" epg="true", Старт Триумф
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/rz5HJ79AGy_3Q8-eVGosIQ,1763672518/streaming/start-triumf/324/1/index.m3u8
+#EXTINF:-1 tvg-id="216" tvg-name="FightBox" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/216.jpg" epg="true", FightBox
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/lFtpQ_PEDGt3a2QQRmdiZQ,1763672518/streaming/fightbox/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="217" tvg-name="Россия 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/217.jpg" epg="true", Россия 24
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/Nkza5yv7xtiiKaqilEQwyQ,1763672519/streaming/rossia24nn/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="218" tvg-name="Известия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/218.jpg" epg="true", Известия
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/AdnqkpYFWYrqZ9x5R7zMNg,1763672519/streaming/izvestia/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="219" tvg-name="360 Новости" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/219.jpg" epg="true", 360 Новости
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/fTYt2hCWgopyU-Ki_8BrzQ,1763672520/streaming/360news/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="220" tvg-name="RTД HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/220.jpg" epg="true", RTД HD
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/GPoo4wru3GBKm_JOEa35Sw,1763672520/streaming/rtdhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="СОЛОВЬЁВLIVE" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/221.jpg" epg="true", СОЛОВЬЁВLIVE
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/CSlXJKDIAZoSbZMWp7TTWw,1763672521/streaming/solovyevlive/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="222" tvg-name="Russia Today" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/222.jpg" epg="true", Russia Today
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/5zgN2rgzJG-KZ5ROOF09lg,1763672521/streaming/rt/324/1/index.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="МИР 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/223.jpg" epg="true", МИР 24
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/dh9i-mpk44ZRxP5jmQu0cw,1763672522/streaming/mir24/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="224" tvg-name="Вместе-РФ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/224.jpg" epg="true", Вместе-РФ
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/QPptTIhZ3UwV2HzNIA--Fg,1763672523/streaming/vmeste-rf/324/1/index.m3u8
+#EXTINF:-1 tvg-id="225" tvg-name="РБК" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/225.jpg" epg="true", РБК
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/til5aYvoKm_07lokb-g9hA,1763672523/streaming/rbk/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="226" tvg-name="Дума ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/226.jpg" epg="true", Дума ТВ
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/inOQnQBJVsPm7ndl4r0ZYA,1763672523/streaming/dumatv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="227" tvg-name="Красная линия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/227.jpg" epg="true", Красная линия
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/Wqpn1pMYuyvpP2SjY3BYBA,1763672524/streaming/redline/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="228" tvg-name="ЛДПР LIVE" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/228.jpg" epg="true", ЛДПР LIVE
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/rhJe0wQSy5nfVQ9qANNl6g,1763672524/streaming/ldprlive/324/1/index.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="ПроДвижение" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/229.jpg" epg="true", ПроДвижение
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/HCa83ONwq5PxPWseeMUBzg,1763672525/streaming/prodvijenie/324/1/index.m3u8
+#EXTINF:-1 tvg-id="230" tvg-name="CGTN" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/230.jpg" epg="true", CGTN
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/Qdj-6FRBIjVYRaWyW7Rkkg,1763672525/streaming/cgtn/324/1/index.m3u8
+#EXTINF:-1 tvg-id="231" tvg-name="CGTN Русский" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/231.jpg" epg="true", CGTN Русский
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/emWsrj4PdXpfviYdM8PQxg,1763672526/streaming/cgtn-rus/324/1/index.m3u8
+#EXTINF:-1 tvg-id="232" tvg-name="Беларусь 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/232.jpg" epg="true", Беларусь 24
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/1hsIqvMthSOfVAJfwgclRw,1763672526/streaming/belarus24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="ПРО БИЗНЕС" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/233.jpg" epg="true", ПРО БИЗНЕС
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/mlwVCKYa4nopXIPXLIuz9g,1763672527/streaming/probusiness/324/1/index.m3u8
+#EXTINF:-1 tvg-id="234" tvg-name="France 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/234.jpg" epg="true", France 24
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/TM_pL_9fs4CNdt5zoHTRYQ,1763672528/streaming/france24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="235" tvg-name="CNA" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/235.jpg" epg="true", CNA
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/oPVG2MjbLB7TfsOlvQxsBQ,1763672528/streaming/cna_eu/324/1/index.m3u8
+#EXTINF:-1 tvg-id="236" tvg-name="Муз ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/236.jpg" epg="true", Муз ТВ
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/9VNdyEl9HJzpgqbEQstmLw,1763672529/streaming/muztv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="237" tvg-name="RU.TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/237.jpg" epg="true", RU.TV
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/wy-AzpB--09YmrDfJ9oiMA,1763672529/streaming/rutvnn/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="238" tvg-name="BRIDGE DELUXE" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/238.jpg" epg="true", BRIDGE DELUXE
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/aXCOGyWG8MAUJOGmqfetbA,1763672530/streaming/br_delux/324/1/index.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="Bridge TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/239.jpg" epg="true", Bridge TV
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/BBHDMSKhrP5-Deqccyo9qQ,1763672530/streaming/bridgetv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="240" tvg-name="BRIDGE ШЛЯГЕР" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/240.jpg" epg="true", BRIDGE ШЛЯГЕР
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/xjJ_7kZ1iwy9j-hQT9rjFQ,1763672531/streaming/br_shlyager/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="241" tvg-name="BRIDGE HITS" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/241.jpg" epg="true", BRIDGE HITS
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/iXbNAknBAlGnlvRn_sNYJQ,1763672531/streaming/br_dance/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="242" tvg-name="BRIDGE РУССКИЙ ХИТ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/242.jpg" epg="true", BRIDGE РУССКИЙ ХИТ
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/wPsg9h1M7gD1NjBo7kn2SA,1763672532/streaming/br_rushit/324/1/index.m3u8
+#EXTINF:-1 tvg-id="243" tvg-name="BRIDGE CLASSIC" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/243.jpg" epg="true", BRIDGE CLASSIC
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/D2RFvCHe8CPkbEWL8aft2Q,1763672532/streaming/br_classic/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="244" tvg-name="BRIDGE ROCK" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/244.jpg" epg="true", BRIDGE ROCK
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/1n3Q3L_eD_94an7xfQlASg,1763672533/streaming/br_rock/324/1/index.m3u8
+#EXTINF:-1 tvg-id="245" tvg-name="ТНТ Music" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/245.jpg" epg="true", ТНТ Music
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/efrLWR2G6ZEhVgi-xf1YBA,1763672533/streaming/tntmusic/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="246" tvg-name="Europa Plus TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/246.jpg" epg="true", Europa Plus TV
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/Yspmuf5poeyEm4uUXZaOpw,1763672534/streaming/evropaplus/324/1/index.m3u8
+#EXTINF:-1 tvg-id="247" tvg-name="RUSSIAN MUSIC BOX" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/247.jpg" epg="true", RUSSIAN MUSIC BOX
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/yN_i8BDBZOjIA1z5GgqIzw,1763672534/streaming/musicbox/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="248" tvg-name="Жара" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/248.jpg" epg="true", Жара
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/xc1hUFaWdnu2RUZcurvg4A,1763672534/streaming/myhouse/324/1/index.m3u8
+#EXTINF:-1 tvg-id="249" tvg-name="Смотри Радио (Оренбург)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/249.jpg" epg="true", Смотри Радио (Оренбург)
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/5jxRV0JrRr6RQl3oCX-gCw,1763672535/streaming/radio-orsk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="250" tvg-name="Muzzon" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/250.jpg" epg="true", Muzzon
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/pzrBV1HIpscOuFGKF2_dFg,1763672536/streaming/muzzone/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="251" tvg-name="TMTV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/251.jpg" epg="true", TMTV
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/7vsO-AOjTev3-xqbCr1qQw,1763672536/streaming/tmtv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="252" tvg-name="SONGTV Russia" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/252.jpg" epg="true", SONGTV Russia
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/VzjfI-RnndgLB5xG-pSxmw,1763672536/streaming/songtvru/324/1/index.m3u8
+#EXTINF:-1 tvg-id="253" tvg-name="SONGTV Armenia" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/253.jpg" epg="true", SONGTV Armenia
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/O_OdbnwIXPMof5wYBwA4kQ,1763672537/streaming/songtvam/324/1/index.m3u8
+#EXTINF:-1 tvg-id="254" tvg-name="MIXM" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/254.jpg" epg="true", MIXM
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/n6J95upjvC-kXKukeqTWCg,1763672538/streaming/muz_play/324/1/index.m3u8
+#EXTINF:-1 tvg-id="255" tvg-name="Телеканал народной музыки" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/255.jpg" epg="true", Телеканал народной музыки
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/aTf4GAQxFewHLECoy40EvA,1763672538/streaming/folk_music/324/1/index.m3u8
+#EXTINF:-1 tvg-id="256" tvg-name="Vostok" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/256.jpg" epg="true", Vostok
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/6ragT19_8eJTBOEJLebGRA,1763672538/streaming/tmb/324/1/index.m3u8
+#EXTINF:-1 tvg-id="257" tvg-name="Шансон" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/257.jpg" epg="true", Шансон
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/o1mPxjHyGQJ-XAIkwbZJfg,1763672539/streaming/shanson/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="258" tvg-name="O2TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/258.jpg" epg="true", O2TV
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/XSjUQ9OuVKcEB9l6WCB61Q,1763672540/streaming/o2tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="259" tvg-name="Страна FM" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/259.jpg" epg="true", Страна FM
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/BvcD1Dm_zhFkLklR1mmjxw,1763672540/streaming/stranafm/324/1/index.m3u8
+#EXTINF:-1 tvg-id="260" tvg-name="Жар Птица" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/260.jpg" epg="true", Жар Птица
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/nMG7a2FQG4zvJNadApFKCw,1763672541/streaming/jarptica/324/1/index.m3u8
+#EXTINF:-1 tvg-id="261" tvg-name="Clubbing TV HD" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/261.jpg" epg="true", Clubbing TV HD
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/FdsMeCI-u9oITR__GUSoDA,1763672541/streaming/clubbingtv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="262" tvg-name="#Ё (Самара)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/262.jpg" epg="true", #Ё (Самара)
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/1Of7AnMjusQlz4qEDStHWQ,1763672542/streaming/echannel/324/1/index.m3u8
+#EXTINF:-1 tvg-id="263" tvg-name="BLAST CHANNEL TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/263.jpg" epg="true", BLAST CHANNEL TV
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/_mYGGR89VTJmpT51z80P1Q,1763672542/streaming/blast_channel_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="264" tvg-name="Музыка Мода ТВ (ММТВ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/264.jpg" epg="true", Музыка Мода ТВ (ММТВ)
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/rV7xrp_xvlZA9j0OJWXjUg,1763672543/streaming/mmtv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="265" tvg-name="Первый Тульский" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/265.jpg" epg="true", Первый Тульский
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/RZfB-_WCrhAy6VEvSOnOhQ,1763672543/streaming/1tula/324/1/index.m3u8
+#EXTINF:-1 tvg-id="266" tvg-name="Каскад24 (Калининград)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/266.jpg" epg="true", Каскад24 (Калининград)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/cHTJoGadAde0XSqFhk1EvQ,1763672544/streaming/kaskad/324/1/index.m3u8
+#EXTINF:-1 tvg-id="267" tvg-name="Инфо 24 (Курганская область г.Шадринск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/267.jpg" epg="true", Инфо 24 (Курганская область г.Шадринск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/GocAu2WYM0ZBc8Oij6rp4Q,1763672544/streaming/shard_info/324/1/index.m3u8
+#EXTINF:-1 tvg-id="268" tvg-name="Сейм (Курск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/268.jpg" epg="true", Сейм (Курск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/xO84v4GF7Fovbp3WKL6YhQ,1763672545/streaming/seim/324/1/index.m3u8
+#EXTINF:-1 tvg-id="269" tvg-name="Краснодар он-лайн" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/269.jpg" epg="true", Краснодар он-лайн
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/m9re54bvi38L-ncegK_6VA,1763672545/streaming/kransodar/324/1/index.m3u8
+#EXTINF:-1 tvg-id="270" tvg-name="Мир Белогорья" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/270.jpg" epg="true", Мир Белогорья
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/V8sJ6XieXIbHDN5PxUjB5Q,1763672546/streaming/belogorie/324/1/index.m3u8
+#EXTINF:-1 tvg-id="271" tvg-name="Архыз 24 (Черкесск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/271.jpg" epg="true", Архыз 24 (Черкесск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/NVVWQ98M94AO9z5dorf1iw,1763672546/streaming/arhis24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="272" tvg-name="Общественное телевидение Приморья (Владивосток)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/272.jpg" epg="true", Общественное телевидение Приморья (Владивосток)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/os4XE5H-blPU558va02T1A,1763672546/streaming/otvprim/324/1/index.m3u8
+#EXTINF:-1 tvg-id="273" tvg-name="СВОЁТВ (Ставрополь)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/273.jpg" epg="true", СВОЁТВ (Ставрополь)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/88pm3K3XCWHfsLwnbifv-Q,1763672547/streaming/svoetv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="274" tvg-name="Ингушетия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/274.jpg" epg="true", Ингушетия
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/QrCwXeM6Ev8drCOjiHYZTw,1763672548/streaming/ingushetia/324/1/index.m3u8
+#EXTINF:-1 tvg-id="275" tvg-name="Тюменское Время" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/275.jpg" epg="true", Тюменское Время
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/H_-Xzyw3bhX-_MXrMq7T6w,1763672548/streaming/tumentime/324/1/index.m3u8
+#EXTINF:-1 tvg-id="276" tvg-name="Грозный" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/276.jpg" epg="true", Грозный
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/AloR3OqJocTRtsPid3VsxQ,1763672549/streaming/grozniy/324/1/index.m3u8
+#EXTINF:-1 tvg-id="277" tvg-name="TV Губерния (Воронеж)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/277.jpg" epg="true", TV Губерния (Воронеж)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/2Y3q8wkBRn176gXx_08piw,1763672549/streaming/guberniya/324/1/index.m3u8
+#EXTINF:-1 tvg-id="278" tvg-name="Ника ТВ (Калуга)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/278.jpg" epg="true", Ника ТВ (Калуга)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/_9JBHlqnvIlCksXRnnXrgw,1763672550/streaming/nika/324/1/index.m3u8
+#EXTINF:-1 tvg-id="279" tvg-name="Русский север (Вологда)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/279.jpg" epg="true", Русский север (Вологда)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/egbZalcNFx6GKRONruP_GQ,1763672551/streaming/russever/324/1/index.m3u8
+#EXTINF:-1 tvg-id="280" tvg-name="7tv" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/280.jpg" epg="true", 7tv
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/p5BXtmnngujnHKjpqSTeQQ,1763672551/streaming/7tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="281" tvg-name="Chuvashiya online" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/281.jpg" epg="true", Chuvashiya online
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/UzAEne3Ri8U8SMU06hY_Fg,1763672552/streaming/camera-online/324/1/index.m3u8
+#EXTINF:-1 tvg-id="282" tvg-name="ЮТВ (Чувашия)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/282.jpg" epg="true", ЮТВ (Чувашия)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/tkmst_WjrFM_d8Vm29HQyw,1763672552/streaming/utv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="283" tvg-name="Чăваш Ен (Чувашия)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/283.jpg" epg="true", Чăваш Ен (Чувашия)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/n4Kre8a5Le3tupESmX7y6Q,1763672553/streaming/chavashen/324/1/index.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="ТНВ Татарстан" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/284.jpg" epg="true", ТНВ Татарстан
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/7EoZFw4HPrkROXIe2ELvVg,1763672553/streaming/tnv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="285" tvg-name="БелРос" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/285.jpg" epg="true", БелРос
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/C62DB1rB6mJFoNCMPs6wgw,1763672554/streaming/belros/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="286" tvg-name="Первый Крымский" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/286.jpg" epg="true", Первый Крымский
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/6zUpylE0lb1f94vybL96OQ,1763672555/streaming/1crimea/324/1/index.m3u8
+#EXTINF:-1 tvg-id="287" tvg-name="Крым 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/287.jpg" epg="true", Крым 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/mJKbqgrR2iYKhyuUeJRAFg,1763672555/streaming/crimea24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="288" tvg-name="Север (Нарьян-Мар)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/288.jpg" epg="true", Север (Нарьян-Мар)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/PxqWHKI14vPb32un2z5PSg,1763672556/streaming/sever/324/1/index.m3u8
+#EXTINF:-1 tvg-id="289" tvg-name="Дагестан" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/289.jpg" epg="true", Дагестан
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/LtNLdo2vlxOTVwY5N5a4Jg,1763672557/streaming/dagestan/324/1/index.m3u8
+#EXTINF:-1 tvg-id="290" tvg-name="Губерния ТВ (Хабаровск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/290.jpg" epg="true", Губерния ТВ (Хабаровск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/5bPT8EGQzBldMq-VAyGV9Q,1763672557/streaming/guberniya-h/324/1/index.m3u8
+#EXTINF:-1 tvg-id="291" tvg-name="ТНВ Планета (Татарстан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/291.jpg" epg="true", ТНВ Планета (Татарстан)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Jl4AsAb64dwgwiLZiNx78w,1763672558/streaming/tnv-planet/324/1/index.m3u8
+#EXTINF:-1 tvg-id="292" tvg-name="Волга (Нижний Новгород)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/292.jpg" epg="true", Волга (Нижний Новгород)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/X1vb43jHog7GvkDXBDSx6A,1763672558/streaming/volga-nn/324/1/index.m3u8
+#EXTINF:-1 tvg-id="293" tvg-name="Новое телевидение (KZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/293.jpg" epg="true", Новое телевидение (KZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/_HdXYVhJgQal6MGZZJWEow,1763672559/streaming/novoetv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="294" tvg-name="БСТ (Уфа)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/294.jpg" epg="true", БСТ (Уфа)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/9XtUIB6HukEw9QvrKxJ7yA,1763672559/streaming/bst/324/1/index.m3u8
+#EXTINF:-1 tvg-id="295" tvg-name="Курай (Уфа)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/295.jpg" epg="true", Курай (Уфа)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/BsIuzwWOm5xU9QMPwhIchQ,1763672560/streaming/curai/324/1/index.m3u8
+#EXTINF:-1 tvg-id="296" tvg-name="Юрган ТВ (Сыктывкар)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/296.jpg" epg="true", Юрган ТВ (Сыктывкар)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/OeGypJT8q7kPtHg-v8Y1HQ,1763672561/streaming/urgan/324/1/index.m3u8
+#EXTINF:-1 tvg-id="297" tvg-name="Катунь-24 (Барнаул)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/297.jpg" epg="true", Катунь-24 (Барнаул)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/WhzQPqr1p4EY_p0SsGCvQw,1763672561/streaming/katun24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="298" tvg-name="Крик ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/298.jpg" epg="true", Крик ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/7726CKJp7p8bRdhvP6l9Rg,1763672562/streaming/rictv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="299" tvg-name="Москва 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/299.jpg" epg="true", Москва 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/ftFrpc5VARFkg_CH6HQ-pw,1763672562/streaming/moscow24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="300" tvg-name="Губерния 33 (Владимир)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/300.jpg" epg="true", Губерния 33 (Владимир)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/F2PTZv2yrfP69hvBqK6GTw,1763672563/streaming/guberniya-v/324/1/index.m3u8
+#EXTINF:-1 tvg-id="301" tvg-name="Липецкое время" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/301.jpg" epg="true", Липецкое время
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Ix9_m62HF1h8l_ZxKB5jHw,1763672563/streaming/lipeck/324/1/index.m3u8
+#EXTINF:-1 tvg-id="302" tvg-name="Ямал-регион (Салехард)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/302.jpg" epg="true", Ямал-регион (Салехард)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/5LxsOAvl6rMUVxP29a8kCA,1763672564/streaming/yamal-region/324/1/index.m3u8
+#EXTINF:-1 tvg-id="303" tvg-name="Астрахань 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/303.jpg" epg="true", Астрахань 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/fVPJbbvyc00oUEMBAqxoYQ,1763672565/streaming/astrakhan24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="Волгоград 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/304.jpg" epg="true", Волгоград 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/degJgxyvoZTKumehqj-5Hg,1763672565/streaming/volgogradtrv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="Дон 24 (Ростов-на-Дону)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/305.jpg" epg="true", Дон 24 (Ростов-на-Дону)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/FaxVZVUt2B-p6vo-US2zTw,1763672566/streaming/don24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="306" tvg-name="Лен ТВ24 (Санкт-Петербург)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/306.jpg" epg="true", Лен ТВ24 (Санкт-Петербург)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/EOi2WqRcX80ikTqh-AowjA,1763672566/streaming/lentv24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="Санкт-Петербург" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/307.jpg" epg="true", Санкт-Петербург
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/7LDxgrogzcfBHGc1m4Ixyw,1763672567/streaming/topspb/324/1/index.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="ОРТ-Планета (Оренбург)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/308.jpg" epg="true", ОРТ-Планета (Оренбург)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/_svqPKkuzoNNFtkkgrcP-A,1763672568/streaming/media56/324/1/index.m3u8
+#EXTINF:-1 tvg-id="309" tvg-name="ТРК Экспресс (Пенза)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/309.jpg" epg="true", ТРК Экспресс (Пенза)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/XVmfygJHZH5OZamCWGN05g,1763672568/streaming/expres_penza/324/1/index.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="Губерния Самарская" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/310.jpg" epg="true", Губерния Самарская
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/kvldf3_QdziA0OqanJmdyQ,1763672569/streaming/guberniatv-s/324/1/index.m3u8
+#EXTINF:-1 tvg-id="311" tvg-name="Аист ТВ (Иркутск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/311.jpg" epg="true", Аист ТВ (Иркутск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/aN5wGAAxlqfVhKa5-AyP0Q,1763672569/streaming/aisttv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="312" tvg-name="Томское время" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/312.jpg" epg="true", Томское время
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/hJQFtQehXbrphV1QJbGOzw,1763672570/streaming/tomsk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="313" tvg-name="МТВ (Волгоград)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/313.jpg" epg="true", МТВ (Волгоград)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/O1NzGgztqZHW3hQayKprjA,1763672570/streaming/volgograd1/324/1/index.m3u8
+#EXTINF:-1 tvg-id="314" tvg-name="Наш дом (Пенза)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/314.jpg" epg="true", Наш дом (Пенза)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/qoIarqkggyYC1TUlWvS2Nw,1763672571/streaming/11channel/324/1/index.m3u8
+#EXTINF:-1 tvg-id="315" tvg-name="Вся Уфа" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/315.jpg" epg="true", Вся Уфа
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/2SrddwtmiQ377g-4mbiSEw,1763672571/streaming/allufaru/324/1/index.m3u8
+#EXTINF:-1 tvg-id="316" tvg-name="Енисей (Красноярск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/316.jpg" epg="true", Енисей (Красноярск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/FuMuGv-kqengXWVr6YQqsA,1763672572/streaming/enisey/324/1/index.m3u8
+#EXTINF:-1 tvg-id="317" tvg-name="Матур ТВ (Башкортостан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/317.jpg" epg="true", Матур ТВ (Башкортостан)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/JqeczW2g3Nz5B_-jsJtZ2w,1763672572/streaming/matur1/324/1/index.m3u8
+#EXTINF:-1 tvg-id="318" tvg-name="Кубань 24 ОРБИТА (Краснодар)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/318.jpg" epg="true", Кубань 24 ОРБИТА (Краснодар)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Vwimki9yzD5kw2UqGeM2oA,1763672573/streaming/cuban24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="319" tvg-name="Сочи 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/319.jpg" epg="true", Сочи 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/p1Dz9lREKsU_6jgrD_rZwg,1763672574/streaming/maksmedia/324/1/index.m3u8
+#EXTINF:-1 tvg-id="320" tvg-name="ОТВ (Екатеринбург)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/320.jpg" epg="true", ОТВ (Екатеринбург)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/CA4CPMrwAmQhYYpWnREtag,1763672574/streaming/otvekb/324/1/index.m3u8
+#EXTINF:-1 tvg-id="321" tvg-name="ОТС-ТВ (Новосибирск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/321.jpg" epg="true", ОТС-ТВ (Новосибирск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/ppC8Rj8grqkZsw61ciRHRQ,1763672574/streaming/otsnovnosib/324/1/index.m3u8
+#EXTINF:-1 tvg-id="322" tvg-name="Башкортостан 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/322.jpg" epg="true", Башкортостан 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/cNxVr3NuxgIMIsyOeCiq0w,1763672575/streaming/vgtrkbash/324/1/index.m3u8
+#EXTINF:-1 tvg-id="323" tvg-name="SochiLive (Сочи)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/323.jpg" epg="true", SochiLive (Сочи)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/A6bFZFzIwGgEsOwUgnNLOA,1763672576/streaming/sochilive/324/1/index.m3u8
+#EXTINF:-1 tvg-id="324" tvg-name="ННТВ (Нижний Новгород)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/324.jpg" epg="true", ННТВ (Нижний Новгород)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/jY2TT8wRDNNLPKhspq7Ahw,1763672576/streaming/nntv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="325" tvg-name="СТРК (Сочи)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/325.jpg" epg="true", СТРК (Сочи)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/kUYEHReKOzWsrrGh8rLFZg,1763672577/streaming/strk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="326" tvg-name="Афонтово (Красноярск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/326.jpg" epg="true", Афонтово (Красноярск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/XGgOOIS_NHzkOImoDP8cPw,1763672577/streaming/afontovo/324/1/index.m3u8
+#EXTINF:-1 tvg-id="327" tvg-name="Эхо 24 (Новоуральск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/327.jpg" epg="true", Эхо 24 (Новоуральск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/WpR6UvPXV5Atmt_rPvKU4w,1763672578/streaming/eho24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="328" tvg-name="НТМ (Мордовия)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/328.jpg" epg="true", НТМ (Мордовия)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/GcyZ6QV3LbEH6DLsZBZXnQ,1763672578/streaming/ntm/324/1/index.m3u8
+#EXTINF:-1 tvg-id="329" tvg-name="Ветта 24 (Пермь)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/329.jpg" epg="true", Ветта 24 (Пермь)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/e_h54JwVYyDK_Ob2mqsEJQ,1763672579/streaming/vetta/324/1/index.m3u8
+#EXTINF:-1 tvg-id="330" tvg-name="Канал С1 (Сургут)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/330.jpg" epg="true", Канал С1 (Сургут)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/0ksWR2I-YvhAxUHn7Uxz5Q,1763672580/streaming/channelc1/324/1/index.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="Канал 86 (Сургут)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/331.jpg" epg="true", Канал 86 (Сургут)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/eM-_AOahXx1cOiAbmiECCw,1763672580/streaming/channel86/324/1/index.m3u8
+#EXTINF:-1 tvg-id="332" tvg-name="Арис 24 (Башкортостан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/332.jpg" epg="true", Арис 24 (Башкортостан)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/L_tuyuJaNxBOmRgFzWGPnw,1763672581/streaming/aris24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="333" tvg-name="Тамыр (Уфа)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/333.jpg" epg="true", Тамыр (Уфа)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Y2ehIKOT46GO4qx-Mk-K6g,1763672581/streaming/tamir/324/1/index.m3u8
+#EXTINF:-1 tvg-id="334" tvg-name="10 канал (Новокузнецк)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/334.jpg" epg="true", 10 канал (Новокузнецк)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/7VbolrGqyd98iank981CLg,1763672582/streaming/10channel/324/1/index.m3u8
+#EXTINF:-1 tvg-id="335" tvg-name="8 канал (Новосибирск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/335.jpg" epg="true", 8 канал (Новосибирск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/E5MqVFPAEFUrkYF_PnJ3tg,1763672582/streaming/8channelnsk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="336" tvg-name="Арктика 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/336.jpg" epg="true", Арктика 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Zc37won31pyg4t_dsqhg-Q,1763672583/streaming/arctica24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="337" tvg-name="8 Канал (Красноярск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/337.jpg" epg="true", 8 Канал (Красноярск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/TyocFkq6rCgvm6hiK8LXLQ,1763672583/streaming/8krasnoyarsk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="338" tvg-name="Хузур ТВ (Татарстан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/338.jpg" epg="true", Хузур ТВ (Татарстан)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/bD3H1Qi3WZnehUWslmuAGA,1763672584/streaming/huzur/324/1/index.m3u8
+#EXTINF:-1 tvg-id="339" tvg-name="Хабар 24 (KZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/339.jpg" epg="true", Хабар 24 (KZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/22HpANFstADA6b0wmWC-jQ,1763672584/streaming/habar24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="340" tvg-name="ТОЛЬЯТТИ 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/340.jpg" epg="true", ТОЛЬЯТТИ 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/xYWohxar1bxKJzJDNujxsQ,1763672585/streaming/tolyati24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="341" tvg-name="Эхо-тв" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/341.jpg" epg="true", Эхо-тв
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/uum-Q2_GnHUJgCz_pOXYxg,1763672586/streaming/ehotv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="342" tvg-name="Каб ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/342.jpg" epg="true", Каб ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/CZxHPAonV8asjIZpzow-RQ,1763672586/streaming/kab_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="343" tvg-name="Солнечногорск ТВ (Моск.обл)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/343.jpg" epg="true", Солнечногорск ТВ (Моск.обл)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/cOOPjMBVhcKiyDj3cLG9Dg,1763672587/streaming/solnechnogorsk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="344" tvg-name="НТС (Севастополь)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/344.jpg" epg="true", НТС (Севастополь)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/ME9yk0e6XNlZKvPz7664pw,1763672587/streaming/nts-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="345" tvg-name="НВК Саха (Якутия)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/345.jpg" epg="true", НВК Саха (Якутия)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/X_yvpE2OZ6j3AKQHpdzkLw,1763672588/streaming/nsk-saha/324/1/index.m3u8
+#EXTINF:-1 tvg-id="346" tvg-name="Югра (Ханты-Мансийск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/346.jpg" epg="true", Югра (Ханты-Мансийск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/WyFDJmmi4JfAfayp0DcRuA,1763672588/streaming/ugra/324/1/index.m3u8
+#EXTINF:-1 tvg-id="347" tvg-name="Регион 29 (Архангельск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/347.jpg" epg="true", Регион 29 (Архангельск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/NvQCbNfk7w49tObcX29Tow,1763672589/streaming/region29/324/1/index.m3u8
+#EXTINF:-1 tvg-id="348" tvg-name="Саратов 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/348.jpg" epg="true", Саратов 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/LlAo23bAKVGchIBBm5U3Vg,1763672589/streaming/saratov24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="349" tvg-name="МТВ Столица (Дагестан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/349.jpg" epg="true", МТВ Столица (Дагестан)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/LICGezjUIo1U7bSwQoNxfQ,1763672590/streaming/stolica/324/1/index.m3u8
+#EXTINF:-1 tvg-id="350" tvg-name="Дон 24 (Ростов-на-Дону)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/350.jpg" epg="true", Дон 24 (Ростов-на-Дону)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/SoMREyDwGOWJjXgKBtVhVg,1763672590/streaming/don24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="351" tvg-name="Брянская губерния" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/351.jpg" epg="true", Брянская губерния
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/hxoCI8YBNM8VbxL2sGop_w,1763672591/streaming/guberniya-b/324/1/index.m3u8
+#EXTINF:-1 tvg-id="352" tvg-name="Миллет (Крым)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/352.jpg" epg="true", Миллет (Крым)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/mUVvFHPfIRWsbZqaTXAxZQ,1763672591/streaming/millet/324/1/index.m3u8
+#EXTINF:-1 tvg-id="353" tvg-name="Ростов-папа (Ростов-на-дону)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/353.jpg" epg="true", Ростов-папа (Ростов-на-дону)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/KTyS7yoap97aR1HOpF1jOQ,1763672592/streaming/rostov-papa/324/1/index.m3u8
+#EXTINF:-1 tvg-id="354" tvg-name="Эфир (Казань)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/354.jpg" epg="true", Эфир (Казань)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/eGUbjpUjZm9AYCvZfPrRdw,1763672592/streaming/efir/324/1/index.m3u8
+#EXTINF:-1 tvg-id="355" tvg-name="Луч (ЯНАО)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/355.jpg" epg="true", Луч (ЯНАО)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/6YArqQSm5VdBSi1jAdK2Ig,1763672593/streaming/luch/324/1/index.m3u8
+#EXTINF:-1 tvg-id="356" tvg-name="Татарстан 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/356.jpg" epg="true", Татарстан 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/w1Tvkm0ir9l9FPXTgW2Pqg,1763672593/streaming/tatar24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="357" tvg-name="Восток 24 (Владивосток)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/357.jpg" epg="true", Восток 24 (Владивосток)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/y3cLnnHXbtj2fEb4aVr8Ww,1763672593/streaming/vostok24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="358" tvg-name="Центр Красноярск" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/358.jpg" epg="true", Центр Красноярск
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/O2dFyeg-pkWDN6S-i08KzQ,1763672594/streaming/tck/324/1/index.m3u8
+#EXTINF:-1 tvg-id="359" tvg-name="Мордовия 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/359.jpg" epg="true", Мордовия 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/MU5IATYzsoDyjFJxmAfZdA,1763672594/streaming/mordovia24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="360" tvg-name="Майдан (Татарстан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/360.jpg" epg="true", Майдан (Татарстан)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/tW_M2zR_LxNsXEGcczkErQ,1763672595/streaming/maidan/324/1/index.m3u8
+#EXTINF:-1 tvg-id="361" tvg-name="Рыбинск-40" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/361.jpg" epg="true", Рыбинск-40
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/q4tIevwdToEAHeaWNNDPWg,1763672596/streaming/rybinsk40/324/1/index.m3u8
+#EXTINF:-1 tvg-id="362" tvg-name="O’zbekiston (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/362.jpg" epg="true", O’zbekiston (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/sRqieP156l7aE56ppbfilA,1763672596/streaming/uzbekistan/324/1/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="Yoshlar (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/363.jpg" epg="true", Yoshlar (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/GHVjjChSnLpe7aqsQQcevQ,1763672597/streaming/yoshlar/324/1/index.m3u8
+#EXTINF:-1 tvg-id="364" tvg-name="Toshkent (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/364.jpg" epg="true", Toshkent (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/BlsM_mXg-cUelhsu9ZlezQ,1763672597/streaming/toshkent/324/1/index.m3u8
+#EXTINF:-1 tvg-id="365" tvg-name="Madaniyat va Ma’rifat (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/365.jpg" epg="true", Madaniyat va Ma’rifat (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/jfD_Md60BgcnFps5_j9bWw,1763672598/streaming/madaniyat_va_marifat/324/1/index.m3u8
+#EXTINF:-1 tvg-id="366" tvg-name="Dunyo Bo’ylab (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/366.jpg" epg="true", Dunyo Bo’ylab (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/aI1IguE_McehuVyOeGKxGg,1763672598/streaming/dunyo_boylab/324/1/index.m3u8
+#EXTINF:-1 tvg-id="367" tvg-name="Bolajon (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/367.jpg" epg="true", Bolajon (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/YLrxkpcRsQlZaB0jJVUXlw,1763672599/streaming/bolajon/324/1/index.m3u8
+#EXTINF:-1 tvg-id="368" tvg-name="Navo (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/368.jpg" epg="true", Navo (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/tntokF102jZujfDQPzatjA,1763672599/streaming/navo/324/1/index.m3u8
+#EXTINF:-1 tvg-id="369" tvg-name="Mahalla (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/369.jpg" epg="true", Mahalla (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/jc8FhaYlE65yhIDGBqHFXQ,1763672600/streaming/mahalla/324/1/index.m3u8
+#EXTINF:-1 tvg-id="370" tvg-name="Kinoteatr (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/370.jpg" epg="true", Kinoteatr (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/UGTmtS-AFUikAj4sEKS3Aw,1763672601/streaming/kinoteatr/324/1/index.m3u8
+#EXTINF:-1 tvg-id="371" tvg-name="O’zbekiston 24 (UZ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/371.jpg" epg="true", O’zbekiston 24 (UZ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/U-6A6L8GI102wSODKe9Psw,1763672602/streaming/uzbekistan24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="372" tvg-name="Сургут 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/372.jpg" epg="true", Сургут 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/-NPQEUKJvDNQYHCMcQPDFw,1763672602/streaming/surgut24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="373" tvg-name="ТКР (Рязань)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/373.jpg" epg="true", ТКР (Рязань)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/xKhAxTjuzgHk3MZesoepTQ,1763672603/streaming/trk_razan/324/1/index.m3u8
+#EXTINF:-1 tvg-id="374" tvg-name="Белгород 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/374.jpg" epg="true", Белгород 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/oY8WJ4cp3HMdT0eGGtLEXg,1763672603/streaming/belgorod24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="375" tvg-name="ТВК (Красноярск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/375.jpg" epg="true", ТВК (Красноярск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/MJdmAFaDlDP1eF8cTBzJBg,1763672604/streaming/tvk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="376" tvg-name="Тоҷикистон (TJ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/376.jpg" epg="true", Тоҷикистон (TJ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/HhR5BwM-2kW5Onz6lTu89g,1763672604/streaming/tojikiston/324/1/index.m3u8
+#EXTINF:-1 tvg-id="377" tvg-name="ТВ Сафина (TJ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/377.jpg" epg="true", ТВ Сафина (TJ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/IGNqyiTfhP72hiRkG4HAEg,1763672604/streaming/safinatv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="378" tvg-name="ТВ Баҳористон (TJ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/378.jpg" epg="true", ТВ Баҳористон (TJ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/aPOVlUw2n_DVPGY-KVk4ww,1763672605/streaming/bohoristontv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="379" tvg-name="Джахоннамо (TJ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/379.jpg" epg="true", Джахоннамо (TJ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/xDSYZAvN3pzEA0Eiu8FnhA,1763672605/streaming/jahonnamo/324/1/index.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="Варзиш ТВ (TJ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/380.jpg" epg="true", Варзиш ТВ (TJ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/pxl3SRivqMMvjFT_CIYuNw,1763672605/streaming/varzishtv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="381" tvg-name="ТВ Синамо (TJ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/381.jpg" epg="true", ТВ Синамо (TJ)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/kFuBVM04uvIer4kfSkrBbg,1763672606/streaming/sinamotv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="382" tvg-name="Ариг Ус 24 (Улан-Удэ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/382.jpg" epg="true", Ариг Ус 24 (Улан-Удэ)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Srz7RWtqh8oXzoV41ImHFA,1763672606/streaming/arigushd/324/1/index.m3u8
+#EXTINF:-1 tvg-id="383" tvg-name="ТВ Центр (Регион)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/383.jpg" epg="true", ТВ Центр (Регион)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/t2xX6xPbQsAOkzkb3d5_CA,1763672607/streaming/tvc_scte35/324/1/index.m3u8
+#EXTINF:-1 tvg-id="384" tvg-name="Салям (Уфа)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/384.jpg" epg="true", Салям (Уфа)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/rfFTQwRpIXogPDNvqOjIYg,1763672607/streaming/salyam/324/1/index.m3u8
+#EXTINF:-1 tvg-id="385" tvg-name="43 канал (Туапсе)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/385.jpg" epg="true", 43 канал (Туапсе)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/UOlNKSI-WAw-TcqX7tHhaA,1763672608/streaming/43kanal/324/1/index.m3u8
+#EXTINF:-1 tvg-id="386" tvg-name="Вестник Надыма (ЯНАО)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/386.jpg" epg="true", Вестник Надыма (ЯНАО)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Hp23O00BMuLeb7IICvhiEQ,1763672608/streaming/trknadym/324/1/index.m3u8
+#EXTINF:-1 tvg-id="387" tvg-name="Прибой ТВ (Дагестан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/387.jpg" epg="true", Прибой ТВ (Дагестан)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/cXag9SPLCklCjaHsomfbpA,1763672608/streaming/priboy/324/1/index.m3u8
+#EXTINF:-1 tvg-id="388" tvg-name="Севастополь 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/388.jpg" epg="true", Севастополь 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/AdkgB0BTXMs9kXXeaPqlng,1763672609/streaming/sevastopol24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="389" tvg-name="Импульс (Новый Уренгой)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/389.jpg" epg="true", Импульс (Новый Уренгой)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/G7923ysf_-PLfEhH9ArQrw,1763672610/streaming/impuls/324/1/index.m3u8
+#EXTINF:-1 tvg-id="390" tvg-name="Самара-Гис" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/390.jpg" epg="true", Самара-Гис
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/zNQLLq6W7guY064XAX1_lQ,1763672610/streaming/samaragis/324/1/index.m3u8
+#EXTINF:-1 tvg-id="391" tvg-name="Самара 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/391.jpg" epg="true", Самара 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/TdAltqC0k2ZIuMeynnJ50Q,1763672611/streaming/samara24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="392" tvg-name="URAL1 (Челябинск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/392.jpg" epg="true", URAL1 (Челябинск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/B5IzFQnxqoysMRJF1P3-cw,1763672611/streaming/ural1/324/1/index.m3u8
+#EXTINF:-1 tvg-id="393" tvg-name="Канал 12 (Череповец)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/393.jpg" epg="true", Канал 12 (Череповец)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/EryJdOQNnrjO5pbH9aOc9g,1763672612/streaming/12cherepovec/324/1/index.m3u8
+#EXTINF:-1 tvg-id="394" tvg-name="Канал 16 (Саров)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/394.jpg" epg="true", Канал 16 (Саров)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/gOBELYfpKDgYbyO5Wa_2nA,1763672612/streaming/channel16/324/1/index.m3u8
+#EXTINF:-1 tvg-id="395" tvg-name="ТВ-ИН (Магнитогорск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/395.jpg" epg="true", ТВ-ИН (Магнитогорск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/A7WPJ4b-vTj-SrSWu3njsg,1763672613/streaming/tvin/324/1/index.m3u8
+#EXTINF:-1 tvg-id="396" tvg-name="Алмазный край (Якутия)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/396.jpg" epg="true", Алмазный край (Якутия)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/8vu2pQwBWewAmNUhDFylmg,1763672613/streaming/almaz_kray/324/1/index.m3u8
+#EXTINF:-1 tvg-id="397" tvg-name="Якутия 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/397.jpg" epg="true", Якутия 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/AJmlRldRPKXHJW-D2kuqnw,1763672614/streaming/yak24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="398" tvg-name="Туапсе 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/398.jpg" epg="true", Туапсе 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Lgqvj4390iOCgrnH-v_8nA,1763672614/streaming/tuapse24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="399" tvg-name="ПРИМА (Красноярск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/399.jpg" epg="true", ПРИМА (Красноярск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/27krAkOJWPl44msVP7nfTg,1763672615/streaming/primatv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="400" tvg-name="Евразия (Оренбургская область г. Орск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/400.jpg" epg="true", Евразия (Оренбургская область г. Орск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/l6TcjKmWGlSRWCw1fbw1Hg,1763672616/streaming/eurasia/324/1/index.m3u8
+#EXTINF:-1 tvg-id="401" tvg-name="Тивиком (Улан-Удэ)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/401.jpg" epg="true", Тивиком (Улан-Удэ)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/S0vyVxZso5pIidDbdCBHGA,1763672616/streaming/tvcom/324/1/index.m3u8
+#EXTINF:-1 tvg-id="402" tvg-name="ТОЛК (Барнаул)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/402.jpg" epg="true", ТОЛК (Барнаул)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/2C7hPzJL-dWSQ_pRGLc9Mg,1763672616/streaming/tolktv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="403" tvg-name="Нижний Новгород 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/403.jpg" epg="true", Нижний Новгород 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/pmYNex0VXdAQgLfv55_Qbw,1763672617/streaming/vestinn24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="404" tvg-name="41 телеканал (Воронеж)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/404.jpg" epg="true", 41 телеканал (Воронеж)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/R23abkrk9Sh-WmGHLvPjww,1763672617/streaming/41tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="Вариант (Владимир)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/405.jpg" epg="true", Вариант (Владимир)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/KRjBkGzyElJMZB39WXslTw,1763672617/streaming/variant/324/1/index.m3u8
+#EXTINF:-1 tvg-id="406" tvg-name="41 регион (Петропавловск-Камчатский)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/406.jpg" epg="true", 41 регион (Петропавловск-Камчатский)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Qj8yeRFebnKs9nWgkCesmQ,1763672618/streaming/41region/324/1/index.m3u8
+#EXTINF:-1 tvg-id="407" tvg-name="Первый Псковский" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/407.jpg" epg="true", Первый Псковский
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/hgCP_DNiRRO9MK-tjCmRCA,1763672619/streaming/1pskov/324/1/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ТВ Экстра" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/408.jpg" epg="true", ТВ Экстра
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/mtRQSUktJTHEiIMPlOyzGQ,1763672619/streaming/tvextra/324/1/index.m3u8
+#EXTINF:-1 tvg-id="409" tvg-name="Кузбасс 1 (Кемерово)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/409.jpg" epg="true", Кузбасс 1 (Кемерово)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/2yJHe-0V20HlrYon3OM8cw,1763672620/streaming/kuzbas1/324/1/index.m3u8
+#EXTINF:-1 tvg-id="410" tvg-name="ТМ-КВАНТ (Кемеровская обл.)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/410.jpg" epg="true", ТМ-КВАНТ (Кемеровская обл.)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/xUoBU9BmlMWtrGPHPVz5yg,1763672620/streaming/tm-kvant/324/1/index.m3u8
+#EXTINF:-1 tvg-id="411" tvg-name="ТВ Регион 04 (Горно-Алтайск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/411.jpg" epg="true", ТВ Регион 04 (Горно-Алтайск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/h87ropRJuaMOqoEJLgXasw,1763672620/streaming/region04/324/1/index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="Абакан 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/412.jpg" epg="true", Абакан 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/mcYkIU6U4NBTn97E35CONw,1763672621/streaming/abakan24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="413" tvg-name="Chuvashiya online" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/413.jpg" epg="true", Chuvashiya online
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/uXjw2GdirCNpS51Eca6dtQ,1763672621/streaming/camera-online/324/1/index.m3u8
+#EXTINF:-1 tvg-id="414" tvg-name="Девятка ТВ (Киров)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/414.jpg" epg="true", Девятка ТВ (Киров)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/gT2Vut5uBb2NvU89gPUG6g,1763672622/streaming/devyatka/324/1/index.m3u8
+#EXTINF:-1 tvg-id="415" tvg-name="4 канал (Екатеринбург)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/415.jpg" epg="true", 4 канал (Екатеринбург)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Qhok5zAjYno2C3tBbee72g,1763672623/streaming/4channel/324/1/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="САМОТЛОР (Нижневартовск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/416.jpg" epg="true", САМОТЛОР (Нижневартовск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/f2IPWGN_yn-puLHWcIPv1g,1763672623/streaming/samotlor/324/1/index.m3u8
+#EXTINF:-1 tvg-id="417" tvg-name="ТОК ТВ Коломна (Моск.обл)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/417.jpg" epg="true", ТОК ТВ Коломна (Моск.обл)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/A7mMIAycvgqXTc4UM_obzg,1763672623/streaming/toktv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="418" tvg-name="ТОЛПАР-ТВ (Уфа)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/418.jpg" epg="true", ТОЛПАР-ТВ (Уфа)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Qwagy0iklMS1a787mHsubw,1763672624/streaming/tolpar/324/1/index.m3u8
+#EXTINF:-1 tvg-id="419" tvg-name="Городской телеканал (Ярославль)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/419.jpg" epg="true", Городской телеканал (Ярославль)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/IdG5HL6Al6gX93tsq7s66w,1763672624/streaming/yaroslavl/324/1/index.m3u8
+#EXTINF:-1 tvg-id="420" tvg-name="Новый век (Тамбов)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/420.jpg" epg="true", Новый век (Тамбов)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Yrq9OdPHil8H7QdemKToOg,1763672625/streaming/tambov/324/1/index.m3u8
+#EXTINF:-1 tvg-id="421" tvg-name="Родной канал" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/421.jpg" epg="true", Родной канал
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/kBBXOyN2mxd0taOPEH8jbQ,1763672625/streaming/rodnoy-kanal/324/1/index.m3u8
+#EXTINF:-1 tvg-id="422" tvg-name="Полёт ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/422.jpg" epg="true", Полёт ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/oaV5ZBamvturmd3_l5dVNw,1763672626/streaming/polet/324/1/index.m3u8
+#EXTINF:-1 tvg-id="423" tvg-name="АКВА ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/423.jpg" epg="true", АКВА ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/KJicM3Bo9oeUPm6Hs_mdzg,1763672626/streaming/aqua/324/1/index.m3u8
+#EXTINF:-1 tvg-id="424" tvg-name="Светлое ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/424.jpg" epg="true", Светлое ТВ
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/m5pQYnQRNrj_DRuovF2vHQ,1763672627/streaming/svetloetv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="425" tvg-name="Истоки (Орел)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/425.jpg" epg="true", Истоки (Орел)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/SwKONu7UDk4Ee83tqSSPKw,1763672627/streaming/istoki/324/1/index.m3u8
+#EXTINF:-1 tvg-id="426" tvg-name="78 канал (Санкт-Петербург)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/426.jpg" epg="true", 78 канал (Санкт-Петербург)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/RTTUzkSl5bbx3jbyL71s2Q,1763672628/streaming/78ch/324/1/index.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="Россия 1 Чувашия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/427.jpg" epg="true", Россия 1 Чувашия
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/DFZPDsKNL0PqB8WmSUjUvw,1763672628/streaming/rossia1-nn/324/1/index.m3u8
+#EXTINF:-1 tvg-id="428" tvg-name="6 ТВ (Хабаровск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/428.jpg" epg="true", 6 ТВ (Хабаровск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/qsg97n9faW69HbunuJc9kg,1763672629/streaming/tvk6/324/1/index.m3u8
+#EXTINF:-1 tvg-id="429" tvg-name="Россия 1 Нижний новгород" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/429.jpg" epg="true", Россия 1 Нижний новгород
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Pkwa35EK0LnEK272_x6yzA,1763672629/streaming/rossia1ott/324/1/index.m3u8
+#EXTINF:-1 tvg-id="430" tvg-name="Кунел ТВ (Татарстан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/430.jpg" epg="true", Кунел ТВ (Татарстан)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/V7cKdxQSh8usOo_hF9sbsg,1763672629/streaming/kuneltv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="431" tvg-name="Русь (Кострома)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/431.jpg" epg="true", Русь (Кострома)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/0OkBUh89SFWDymyohNBA0g,1763672630/streaming/kostroma/324/1/index.m3u8
+#EXTINF:-1 tvg-id="432" tvg-name="ТВ21+ (Мурманск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/432.jpg" epg="true", ТВ21+ (Мурманск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/6Mzq59QK0tYF5JZiytUNOQ,1763672630/streaming/murmansk-tv21/324/1/index.m3u8
+#EXTINF:-1 tvg-id="433" tvg-name="Рифей-ТВ (Пермь)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/433.jpg" epg="true", Рифей-ТВ (Пермь)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/gbdacEBZG_fEmYGsH6r38g,1763672631/streaming/rifey/324/1/index.m3u8
+#EXTINF:-1 tvg-id="434" tvg-name="ТЕО ТВ (Москва)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/434.jpg" epg="true", ТЕО ТВ (Москва)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/UcGg7wXXnYwyiCFe2eQqwg,1763672632/streaming/teo-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="435" tvg-name="Такт 24 (Курск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/435.jpg" epg="true", Такт 24 (Курск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/df4FJ7Ktf1nxxjdBmLJlUg,1763672632/streaming/takt-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="436" tvg-name="Своё ТВ (Пермский край г. Березники)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/436.jpg" epg="true", Своё ТВ (Пермский край г. Березники)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/ynOgnCelrkwDD0nPqGdvjQ,1763672633/streaming/svoetv-perm/324/1/index.m3u8
+#EXTINF:-1 tvg-id="437" tvg-name="Россия 1 Питер" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/437.jpg" epg="true", Россия 1 Питер
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/gGQAwnN9lG7d7ClzwC-rtw,1763672633/streaming/rossia1-spb/324/1/index.m3u8
+#EXTINF:-1 tvg-id="438" tvg-name="ПАНОРАМА ТВ (Тверь)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/438.jpg" epg="true", ПАНОРАМА ТВ (Тверь)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Liw3XLZLIUdiOMeLhRV-uw,1763672633/streaming/panorama_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="439" tvg-name="Россия 1 Ростов" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/439.jpg" epg="true", Россия 1 Ростов
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/zs1SdiMR1-ejrDGu380ZMA,1763672634/streaming/rossia1-don/324/1/index.m3u8
+#EXTINF:-1 tvg-id="440" tvg-name="Россия 1 Калининград" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/440.jpg" epg="true", Россия 1 Калининград
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/IxI7obNxMUP1u8WQRvPHPA,1763672634/streaming/rossia1-kalin/324/1/index.m3u8
+#EXTINF:-1 tvg-id="441" tvg-name="ПроДвижение - Ленинск (Кемеровская обл.)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/441.jpg" epg="true", ПроДвижение - Ленинск (Кемеровская обл.)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/iMw4fLuwYw94ErU52TazrQ,1763672635/streaming/ltv1tnt/324/1/index.m3u8
+#EXTINF:-1 tvg-id="442" tvg-name="Известия Саратов" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/442.jpg" epg="true", Известия Саратов
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/KMpu0ysALlQK8mELC3ozJg,1763672636/streaming/izvestia-saratov/324/1/index.m3u8
+#EXTINF:-1 tvg-id="443" tvg-name="Город (Курганская область г.Шадринск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/443.jpg" epg="true", Город (Курганская область г.Шадринск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/WxBytysrntijn0vnC3rDVw,1763672636/streaming/gorod/324/1/index.m3u8
+#EXTINF:-1 tvg-id="444" tvg-name="ЮУрГУ-ТВ (Челябинск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/444.jpg" epg="true", ЮУрГУ-ТВ (Челябинск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/UdMkBOhg_yRzY9Tm_8g59Q,1763672637/streaming/urgru/324/1/index.m3u8
+#EXTINF:-1 tvg-id="445" tvg-name="Брянск" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/445.jpg" epg="true", Брянск
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/jzHfLUaRJz5la3SsX7dMZQ,1763672637/streaming/bryansk_24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="446" tvg-name="Россия 1 Самара" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/446.jpg" epg="true", Россия 1 Самара
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/06tTO2E880K4Hc33BbcpfA,1763672638/streaming/rossia1-samara/324/1/index.m3u8
+#EXTINF:-1 tvg-id="447" tvg-name="БСТ24 (Иркутская область г. Братск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/447.jpg" epg="true", БСТ24 (Иркутская область г. Братск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/lzweRbyRsn3780aACxzing,1763672638/streaming/bst24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="448" tvg-name="Саров 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/448.jpg" epg="true", Саров 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/kqEr-5veqeX8lR1AUJgmLw,1763672639/streaming/sarov24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="449" tvg-name="12 канал (Омск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/449.jpg" epg="true", 12 канал (Омск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/buZVhSfIKHSKE5g3S9vNsg,1763672640/streaming/12channel/324/1/index.m3u8
+#EXTINF:-1 tvg-id="450" tvg-name="НСК 49 (Новосибирск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/450.jpg" epg="true", НСК 49 (Новосибирск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/AoFxEhbjN203AnJlrJCzAg,1763672640/streaming/49channel/324/1/index.m3u8
+#EXTINF:-1 tvg-id="451" tvg-name="Волга24 (Нижний Новгород)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/451.jpg" epg="true", Волга24 (Нижний Новгород)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/foglgsQIOOTPAPxjOta2PA,1763672641/streaming/vremyan/324/1/index.m3u8
+#EXTINF:-1 tvg-id="452" tvg-name="ОСН ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/452.jpg" epg="true", ОСН ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/kRkJtBp4CV12xrCvlsRczw,1763672642/streaming/osnmedia/324/1/index.m3u8
+#EXTINF:-1 tvg-id="453" tvg-name="27 канал Прокопьевск" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/453.jpg" epg="true", 27 канал Прокопьевск
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/gwpolNhjL7W95P5i0yyf4g,1763672642/streaming/27trk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="454" tvg-name="Национальный жилищный канал" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/454.jpg" epg="true", Национальный жилищный канал
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/TnaV-wI4D5jF4ccEc_rCHw,1763672643/streaming/nzhklive/324/1/index.m3u8
+#EXTINF:-1 tvg-id="455" tvg-name="АСТВ (Сахалин)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/455.jpg" epg="true", АСТВ (Сахалин)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/0wH4a5RxT-hfI9bkT4SNbg,1763672644/streaming/astv24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="456" tvg-name="7 канал (Красноярск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/456.jpg" epg="true", 7 канал (Красноярск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/QSUMfyoC8Dkww-Rx9lbV0g,1763672644/streaming/7channel/324/1/index.m3u8
+#EXTINF:-1 tvg-id="457" tvg-name="Бийское ТВ (Алтайский край г. Бийск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/457.jpg" epg="true", Бийское ТВ (Алтайский край г. Бийск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/6HmndKaZ4XCLYzmqGYqAfg,1763672645/streaming/btv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="458" tvg-name="ТРК Братск" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/458.jpg" epg="true", ТРК Братск
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/-JyY27joUsZ2cwn2tQK-3Q,1763672645/streaming/bratsk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="459" tvg-name="Первый Севастопольский" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/459.jpg" epg="true", Первый Севастопольский
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/SaZk6pZ1ybZnRJh0sh-4Ug,1763672646/streaming/1sevastopol/324/1/index.m3u8
+#EXTINF:-1 tvg-id="460" tvg-name="Барс (Иваново)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/460.jpg" epg="true", Барс (Иваново)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/HRhcNMzomHYeLv0IutAWLQ,1763672647/streaming/bars/324/1/index.m3u8
+#EXTINF:-1 tvg-id="461" tvg-name="Колыма Плюс" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/461.jpg" epg="true", Колыма Плюс
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/mpSU3BYhbVukoe6F50D_rQ,1763672647/streaming/kolyma_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="462" tvg-name="Телеканал Новороссийск" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/462.jpg" epg="true", Телеканал Новороссийск
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/p_KJaKq5Sk17ZygHstvEew,1763672647/streaming/novorossiysk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="463" tvg-name="Буряад ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/463.jpg" epg="true", Буряад ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/e8wye_oHAhIYyybGrQddKQ,1763672648/streaming/buryad_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="464" tvg-name="Кунгур ТВ (Пермский край)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/464.jpg" epg="true", Кунгур ТВ (Пермский край)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/dLiQog2p1Wpjt6tozmZDpg,1763672649/streaming/kungurtv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="465" tvg-name="НТС (Иркутск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/465.jpg" epg="true", НТС (Иркутск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/oCCvOvC4jXuPPaYll7PgRg,1763672649/streaming/nts-irk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="466" tvg-name="Северный Крым 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/466.jpg" epg="true", Северный Крым 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/CcPLlCwqW2ceTkj2Pd4Row,1763672649/streaming/sever_crimea24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="467" tvg-name="Евпатория 24 (Республика Крым)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/467.jpg" epg="true", Евпатория 24 (Республика Крым)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/ZxozWIp8cU36RMCrBX0Zmw,1763672650/streaming/evpotoriya24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="468" tvg-name="Керчь 24 (Республика Крым)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/468.jpg" epg="true", Керчь 24 (Республика Крым)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/KmIYMhq9n11mrmcbH9wHRA,1763672651/streaming/kerch24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="469" tvg-name="Ялта 24 (Республика Крым)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/469.jpg" epg="true", Ялта 24 (Республика Крым)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/rXi8YH91AFDIgb45XPVHcA,1763672651/streaming/yalta24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="470" tvg-name="Восточный Крым 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/470.jpg" epg="true", Восточный Крым 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/4YcooUwy8-MNGhsJeh9fhQ,1763672652/streaming/vostok-crimea24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="471" tvg-name="Легендарный 24 (Республика Крым г.Севастополь)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/471.jpg" epg="true", Легендарный 24 (Республика Крым г.Севастополь)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/RiekUnI8857A3K24oIGCDg,1763672652/streaming/legend24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="472" tvg-name="Симферополь 24 (Республика Крым)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/472.jpg" epg="true", Симферополь 24 (Республика Крым)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/22iwOHNv08lAwNUMpDaJ9g,1763672653/streaming/simferopol24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="473" tvg-name="NEXT-TV (Башкортостан г.Нефтекамск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/473.jpg" epg="true", NEXT-TV (Башкортостан г.Нефтекамск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Rjf1l0YCi8vwF_Yqj9_1_g,1763672654/streaming/next-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="474" tvg-name="Телеканал HHQ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/474.jpg" epg="true", Телеканал HHQ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/jI6_KBI-FBvKUyjpsT7zCw,1763672654/streaming/hhq/324/1/index.m3u8
+#EXTINF:-1 tvg-id="475" tvg-name="Мегаполис Югра" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/475.jpg" epg="true", Мегаполис Югра
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/pLPeqOodTKOiXZ1WsacVsg,1763672655/streaming/megapolis_ugra/324/1/index.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="Общественное достояние" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/476.jpg" epg="true", Общественное достояние
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/QcfT1RFKlzz6k9OzGDV_gA,1763672655/streaming/public_dom/324/1/index.m3u8
+#EXTINF:-1 tvg-id="477" tvg-name="Осетия-Ирыстон" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/477.jpg" epg="true", Осетия-Ирыстон
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/AN4lOhUaYHqmGF7ASK2uVA,1763672656/streaming/osetia-iryston/324/1/index.m3u8
+#EXTINF:-1 tvg-id="478" tvg-name="Первоуральск ТВ (Свердловская обл.)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/478.jpg" epg="true", Первоуральск ТВ (Свердловская обл.)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/5DKIGL0sOcde7tCcfJ2jYQ,1763672656/streaming/1uralsk/324/1/index.m3u8
+#EXTINF:-1 tvg-id="479" tvg-name="Соль ТВ (Пермский край г. Соликамск)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/479.jpg" epg="true", Соль ТВ (Пермский край г. Соликамск)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/fyBRyGeexQ7r2MfJzvJ20w,1763672657/streaming/salt-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="480" tvg-name="Среда (Дагестан)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/480.jpg" epg="true", Среда (Дагестан)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/dBDd_u-pH-4yNlM0sb2Hog,1763672658/streaming/sreda/324/1/index.m3u8
+#EXTINF:-1 tvg-id="481" tvg-name="Сибирь 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/481.jpg" epg="true", Сибирь 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/H2Jxutx--FvAfSLSBzsm_Q,1763672658/streaming/sibir_24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="482" tvg-name="Известия Город Оренбург" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/482.jpg" epg="true", Известия Город Оренбург
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/AEl6HGzcfvpii8C1KA2clg,1763672659/streaming/gorod-orenb/324/1/index.m3u8
+#EXTINF:-1 tvg-id="483" tvg-name="Арт ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/483.jpg" epg="true", Арт ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/l5ENV00rNAOOoNSvEM_ThQ,1763672660/streaming/art_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="484" tvg-name="Липецк Тайм" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/484.jpg" epg="true", Липецк Тайм
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/1lK7H-WTq5eOPF_9J_GWBw,1763672660/streaming/lipeck_time/324/1/index.m3u8
+#EXTINF:-1 tvg-id="485" tvg-name="Ники ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/485.jpg" epg="true", Ники ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/Q0JXSgnss5TJ92aNOh173A,1763672661/streaming/nikitv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="486" tvg-name="Луганск 24" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/486.jpg" epg="true", Луганск 24
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/sZY6_d-NgCMCeTOhqaAUTw,1763672661/streaming/lugansk24/324/1/index.m3u8
+#EXTINF:-1 tvg-id="487" tvg-name="Дзержинск ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/487.jpg" epg="true", Дзержинск ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/2AU51ngbRbABfF39Le96WA,1763672662/streaming/dzertv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="488" tvg-name="8 канал (Владивосток)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/488.jpg" epg="true", 8 канал (Владивосток)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/PtO1jR1kzJt0PwL2vNQnJg,1763672662/streaming/8kanal-vladik/324/1/index.m3u8
+#EXTINF:-1 tvg-id="489" tvg-name="Щелково 41" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/489.jpg" epg="true", Щелково 41
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/VtwrysIQ-430xo8iMKYUxA,1763672663/streaming/tv41/324/1/index.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="РБК Пермь" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/490.jpg" epg="true", РБК Пермь
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/3EyTFrFZ-h1dAP5nUT-3gQ,1763672664/streaming/rbk-perm/324/1/index.m3u8
+#EXTINF:-1 tvg-id="491" tvg-name="AIVA" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/491.jpg" epg="true", AIVA
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/S7p4UHRhpdlsKESTGT-k2w,1763672665/streaming/aiva_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="492" tvg-name="1HD Music" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/492.jpg" epg="true", 1HD Music
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/0lt0LliY5LKQHkMkvv32DA,1763672665/streaming/1hd_music/324/1/index.m3u8
+#EXTINF:-1 tvg-id="493" tvg-name="Футбол" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/493.jpg" epg="true", Футбол
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/DCszt-o39OhGyxTDGnlLTA,1763672665/streaming/footbal/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="494" tvg-name="КВН" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/494.jpg" epg="true", КВН
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/NRc-HybPVv2B8W77qJA_lQ,1763672666/streaming/kvn/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="495" tvg-name="Quadro" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/495.jpg" epg="true", Quadro
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/DYDcHf0HVt_PN6xyO8FwfQ,1763672666/streaming/quadrohd/324/1/index.m3u8
+#EXTINF:-1 tvg-id="496" tvg-name="ТВ-21" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/496.jpg" epg="true", ТВ-21
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/-IfhpnnalutxKcJMRjV2VQ,1763672667/streaming/tv_xxi/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="497" tvg-name="Неизвестная Россия" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/497.jpg" epg="true", Неизвестная Россия
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/dF5BMkRjKy1ZepBgLUzJBw,1763672668/streaming/unknown_russia/324/1/index.m3u8
+#EXTINF:-1 tvg-id="498" tvg-name="BRIDGE Фрэш" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/498.jpg" epg="true", BRIDGE Фрэш
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/ufLmoHdfHDKu2R64costBg,1763672668/streaming/br_fresh/324/1/index.m3u8
+#EXTINF:-1 tvg-id="499" tvg-name="Live Music Channel" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/499.jpg" epg="true", Live Music Channel
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/Jy2GRl635bFvntonYEF3Ww,1763672669/streaming/livemusicchannal/324/1/index.m3u8
+#EXTINF:-1 tvg-id="500" tvg-name="Лавстори" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/500.jpg" epg="true", Лавстори
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/clSpL7DDzlkMsZVfnecPMA,1763672670/streaming/lovestory/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="501" tvg-name="Советская киноклассика" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/501.jpg" epg="true", Советская киноклассика
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/h7QI7hUtrx389G1ckIlxZg,1763672670/streaming/sovet_classic/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="502" tvg-name="START Air" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/502.jpg" epg="true", START Air
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/q2RReLmI97mWoDtbpg0rhw,1763672670/streaming/start_air/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="503" tvg-name="Вкус" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/503.jpg" epg="true", Вкус
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/eZEbEsxnw-moUc1SKBd6Ng,1763672671/streaming/vkus_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="504" tvg-name="ЭХ!" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/504.jpg" epg="true", ЭХ!
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/4yEM65WtmZyfJb_Yw3D4Jg,1763672671/streaming/eh_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="505" tvg-name="Русский корабль!" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/505.jpg" epg="true", Русский корабль!
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/AmUqGEGT6UQULAGpS5bh4A,1763672672/streaming/russian_ship/324/1/index.m3u8
+#EXTINF:-1 tvg-id="506" tvg-name="BRIDGE ЭТНО" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/506.jpg" epg="true", BRIDGE ЭТНО
+#EXTGRP:Музыкальные
+https://mhd128.iptv2022.com/p/fbNIKfcjz6NI2IjaDKJbUg,1763672672/streaming/bridge_etno/324/1/index.m3u8
+#EXTINF:-1 tvg-id="507" tvg-name="Беларусь 1" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/507.jpg" epg="true", Беларусь 1
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/po88NPdt_3_wOz895boJNw,1763672673/streaming/belarus1_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="508" tvg-name="Беларусь 2" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/508.jpg" epg="true", Беларусь 2
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/aA7gKPjg8I8fF3uA-fnqwg,1763672674/streaming/belarus2_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="509" tvg-name="Беларусь 3" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/509.jpg" epg="true", Беларусь 3
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/Puo1ZEQGI6AZwDrOj22ySw,1763672674/streaming/belarus3_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="510" tvg-name="Беларусь 5" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/510.jpg" epg="true", Беларусь 5
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/xmXqI3IkqW9ORCDX5knMHw,1763672674/streaming/belarus5_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="511" tvg-name="ОНТ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/511.jpg" epg="true", ОНТ
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/V5Zk9HEu8GZROaoZ1IKg0w,1763672675/streaming/ont_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="512" tvg-name="РТР-Беларусь" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/512.jpg" epg="true", РТР-Беларусь
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/DM0IOl_FiRtra_bz28zA8A,1763672675/streaming/rtr_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="513" tvg-name="НТВ-Беларусь" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/513.jpg" epg="true", НТВ-Беларусь
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/75s5oeWeODNSyF77NVNPng,1763672676/streaming/ntvby_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="514" tvg-name="СТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/514.jpg" epg="true", СТВ
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/qcil-Y03cmd8SHWltgyDTA,1763672676/streaming/stv_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="515" tvg-name="Первый информационный" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/515.jpg" epg="true", Первый информационный
+#EXTGRP:Беларусь
+https://mhd128.iptv2022.com/p/1tTTGvO9w9SBWKFZbvaIYg,1763672677/streaming/perviy_info_by/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="516" tvg-name="Волейбол" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/516.jpg" epg="true", Волейбол
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/zmJI-iKP2dk7lot9Ailnfg,1763672678/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="517" tvg-name="Мир сериала" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/517.jpg" epg="true", Мир сериала
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/RiWfL2QBzewkzU8iuGEJ_Q,1763672678/streaming/mir_seriala/324/1/index.m3u8
+#EXTINF:-1 tvg-id="518" tvg-name="Кино и жизнь" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/518.jpg" epg="true", Кино и жизнь
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/a_yR3yP0AwwEkrp75sqilA,1763672679/streaming/kino_live/324/1/index.m3u8
+#EXTINF:-1 tvg-id="519" tvg-name="Retro Plus" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/519.jpg" epg="true", Retro Plus
+#EXTGRP:Музыкальные
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+#EXTINF:-1 tvg-id="520" tvg-name="Челны ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/520.jpg" epg="true", Челны ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/3U--B6MweLpxh5x47svWQw,1763672680/streaming/tatar24_chelny/324/1/index.m3u8
+#EXTINF:-1 tvg-id="521" tvg-name="Мы" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/521.jpg" epg="true", Мы
+#EXTGRP:Познавательные
+https://mhd128.iptv2022.com/p/Sh7_btJKEP9mvUlR7xKqDQ,1763672680/streaming/we_tv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="522" tvg-name="Аппетитный" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/522.jpg" epg="true", Аппетитный
+#EXTGRP:Развлекательные
+https://mhd128.iptv2022.com/p/DnYVxAO5YY26f1DsAA-60w,1763672681/streaming/appetitniy/324/1/index.m3u8
+#EXTINF:-1 tvg-id="523" tvg-name="Live TV (az)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/523.jpg" epg="true", Live TV (az)
+#EXTGRP:Международные
+https://mhd128.iptv2022.com/p/D6rRjMKWS0loMmaidQt63w,1763672681/streaming/livetvaz/324/1/index.m3u8
+#EXTINF:-1 tvg-id="524" tvg-name="Конгресс ТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/524.jpg" epg="true", Конгресс ТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/jRBO0iNEQDUoL_QO5GbrKQ,1763672681/streaming/tvkongres/324/1/index.m3u8
+#EXTINF:-1 tvg-id="525" tvg-name="Овертайм" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/525.jpg" epg="true", Овертайм
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/BgEqEETZ8h62JVCtIy0fww,1763672682/streaming/overtime/324/1/index.m3u8
+#EXTINF:-1 tvg-id="526" tvg-name="ОмскТВ" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/526.jpg" epg="true", ОмскТВ
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/5lUODu-zczcD6UmyU5tw0g,1763672682/streaming/omsk-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="527" tvg-name="РТК Забайкалье (Чита)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/527.jpg" epg="true", РТК Забайкалье (Чита)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/WZabXxhTty5y-NnlFTgWsw,1763672683/streaming/rtk-zab/324/1/index.m3u8
+#EXTINF:-1 tvg-id="528" tvg-name="Город (Рязань)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/528.jpg" epg="true", Город (Рязань)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/DM3AjDe7TAVcGgnvW27VhA,1763672684/streaming/gorod-ryazan/324/1/index.m3u8
+#EXTINF:-1 tvg-id="529" tvg-name="Область 45 (Курган)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/529.jpg" epg="true", Область 45 (Курган)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/hgG8pGWxv9RG3H02g3jlug,1763672684/streaming/oblast-45/324/1/index.m3u8
+#EXTINF:-1 tvg-id="530" tvg-name="News Front TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/530.jpg" epg="true", News Front TV
+#EXTGRP:Информационные
+https://mhd128.iptv2022.com/p/CpKPGf1ybGB5UG-tWfKvFg,1763672685/streaming/news-front/324/1/index.m3u8
+#EXTINF:-1 tvg-id="531" tvg-name="Таврия (Херсон)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/531.jpg" epg="true", Таврия (Херсон)
+#EXTGRP:Региональные
+https://mhd128.iptv2022.com/p/gauQy_obeHGoNK5etWhWBw,1763672685/streaming/tavriya/324/1/index.m3u8
+#EXTINF:-1 tvg-id="532" tvg-name="Госфильмофонд. Машина времени" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/532.jpg" epg="true", Госфильмофонд. Машина времени
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/inPcIYBE4IqGE8VQUj-rzw,1763672686/streaming/car_is_vermen/324/1/index.m3u8
+#EXTINF:-1 tvg-id="533" tvg-name="Сила" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/533.jpg" epg="true", Сила
+#EXTGRP:Спортивные
+https://mhd128.iptv2022.com/p/NYaXrcxZdZtjWYsCiY_D3w,1763672686/streaming/sila/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="534" tvg-name="Sumiko" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/534.jpg" epg="true", Sumiko
+#EXTGRP:Фильмовые
+https://mhd128.iptv2022.com/p/nx9Cgd53kzRVhUFQEmmWCQ,1763672687/streaming/sumiko/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="535" tvg-name="Первый канал (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/535.jpg" epg="true", Первый канал (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/NKRvWmLGOppIlW1-kxRxyA,1763672687/streaming/1kanalplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="536" tvg-name="Первый канал (+6)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/536.jpg" epg="true", Первый канал (+6)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/6lQiT3EhNRvFEbp7G7o9Zg,1763672688/streaming/1kanalplus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="537" tvg-name="Россия 1 (+1)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/537.jpg" epg="true", Россия 1 (+1)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/Z6W5IKYfkemNqNfTEA7CEQ,1763672688/streaming/rossia1plus1/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="538" tvg-name="Россия 1 (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/538.jpg" epg="true", Россия 1 (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/NMvM34iXp7IxaihDotQ72g,1763672689/streaming/rossia1plus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="539" tvg-name="Россия 1 (+3)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/539.jpg" epg="true", Россия 1 (+3)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/Wr7pckhRpLadSq08855z0g,1763672689/streaming/rossia1plus3/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="540" tvg-name="Россия 1 (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/540.jpg" epg="true", Россия 1 (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/eXOOpvZAXCIbwJ2hHFgDTA,1763672690/streaming/rossia1plus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="541" tvg-name="Россия 1 (+5)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/541.jpg" epg="true", Россия 1 (+5)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/Vr8L2E7PeolPWIhQya3lRg,1763672690/streaming/rossia1plus5/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="542" tvg-name="Россия 1 (+6)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/542.jpg" epg="true", Россия 1 (+6)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/CMdLTI87oxz5GJ1U8ghk2g,1763672691/streaming/rossia1plus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="543" tvg-name="Россия 1 (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/543.jpg" epg="true", Россия 1 (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/KQBljTVnj9BA1eAkDOp-AA,1763672691/streaming/rossia1plus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="544" tvg-name="Россия 1 (+8)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/544.jpg" epg="true", Россия 1 (+8)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/b-Mo3g0PApKG3lMieKRm_w,1763672692/streaming/rossia1plus8/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="545" tvg-name="Россия 1 (+9)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/545.jpg" epg="true", Россия 1 (+9)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/iZFJL1M8RC1jyBWF5kKb1w,1763672692/streaming/rossia1plus9/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="546" tvg-name="НТВ (+1)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/546.jpg" epg="true", НТВ (+1)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/pTe0qWFhVjsozHTf9H1OPA,1763672693/streaming/ntvplus1/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="547" tvg-name="НТВ (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/547.jpg" epg="true", НТВ (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/R9F2jJL4wz17WvYEhZXJmg,1763672693/streaming/ntvplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="548" tvg-name="НТВ (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/548.jpg" epg="true", НТВ (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/FP1UfMjI438L0ccFV--W7w,1763672694/streaming/ntvplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="549" tvg-name="Рен ТВ +2" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/549.jpg" epg="true", Рен ТВ +2
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/NojQ64QfT92EHphuQqHh7Q,1763672694/streaming/rentvplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="550" tvg-name="Рен ТВ +4" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/550.jpg" epg="true", Рен ТВ +4
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/lrhd3f6QAthMgWD10vIlYA,1763672695/streaming/rentvplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="551" tvg-name="Рен ТВ +7" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/551.jpg" epg="true", Рен ТВ +7
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/h02CXisY9xeBgUt80xZ1jQ,1763672695/streaming/rentvplus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="552" tvg-name="СТС (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/552.jpg" epg="true", СТС (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/31J5tELZBcpFxRasIy5OEw,1763672696/streaming/stsplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="553" tvg-name="СТС (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/553.jpg" epg="true", СТС (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/B92QXCWbZtl3TkuJndnOzw,1763672696/streaming/stsplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="554" tvg-name="СТС (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/554.jpg" epg="true", СТС (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/atmSzHc5vrjer99_8sVtKg,1763672697/streaming/stsplus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="555" tvg-name="СТС Love (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/555.jpg" epg="true", СТС Love (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/FRjfRA9YtjhhoqFF0mfa3Q,1763672697/streaming/stsloveplus2/324/1/index.m3u8
+#EXTINF:-1 tvg-id="556" tvg-name="СТС Love (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/556.jpg" epg="true", СТС Love (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/uJNSRjP4InH9GvvpUmN22Q,1763672698/streaming/stsloveplus4/324/1/index.m3u8
+#EXTINF:-1 tvg-id="557" tvg-name="Ю (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/557.jpg" epg="true", Ю (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/skfX4F6nojHxHRGiZHfGyQ,1763672699/streaming/channeluplus2/324/1/index.m3u8
+#EXTINF:-1 tvg-id="558" tvg-name="Ю (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/558.jpg" epg="true", Ю (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/Y-JWklofZAzj8ofLZPdYzQ,1763672699/streaming/channeluplus7/324/1/index.m3u8
+#EXTINF:-1 tvg-id="559" tvg-name="Пятый канал (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/559.jpg" epg="true", Пятый канал (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/4RT_YNzT-eo1YY_-I000Kw,1763672700/streaming/5kanalplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="560" tvg-name="Пятый канал (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/560.jpg" epg="true", Пятый канал (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/pZihU_7CAjzJNWEEyihb-w,1763672700/streaming/5kanalplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="561" tvg-name="Пятый канал (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/561.jpg" epg="true", Пятый канал (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/RMcUxklRaDnSpBprH_fycg,1763672700/streaming/5kanalplus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="562" tvg-name="Домашний (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/562.jpg" epg="true", Домашний (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/d0KFqwnjGLcAbweesMVfCw,1763672700/streaming/homeplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="563" tvg-name="Домашний (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/563.jpg" epg="true", Домашний (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/hHoKiJiz2B_toYcdDi9fUw,1763672701/streaming/homeplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="564" tvg-name="Домашний (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/564.jpg" epg="true", Домашний (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/9aS5W6FNHl4KoQlKe_eicQ,1763672702/streaming/homeplus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="565" tvg-name="ТВ Центр +2" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/565.jpg" epg="true", ТВ Центр +2
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/m-WyMlJDVQ5SdBx8kybSJQ,1763672703/streaming/tvcplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="566" tvg-name="ТВ Центр +4" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/566.jpg" epg="true", ТВ Центр +4
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/tUw3dTBe7IYPZK1KF1ynZQ,1763672703/streaming/tvcplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="567" tvg-name="ТВ Центр +6" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/567.jpg" epg="true", ТВ Центр +6
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/ZOPVEZEmUVdbd2bVvtV31w,1763672703/streaming/tvcplus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="568" tvg-name="ОТР (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/568.jpg" epg="true", ОТР (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/AUBjVq9ZddiRKpckrFpNCw,1763672704/streaming/otrplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="569" tvg-name="ОТР (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/569.jpg" epg="true", ОТР (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/_ytjkv2dkjC7rPcub7WXqg,1763672705/streaming/otrplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="570" tvg-name="ОТР (+6)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/570.jpg" epg="true", ОТР (+6)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/6xHkHhNAC5btuvQvigzDoQ,1763672705/streaming/otrplus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="571" tvg-name="ТВ-3 (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/571.jpg" epg="true", ТВ-3 (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/HUb4hyGjtsWvQiUgdphG5Q,1763672705/streaming/tv3plus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="572" tvg-name="ТВ-3 (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/572.jpg" epg="true", ТВ-3 (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/sAbU7a7qD1ciBBsZBm2lcg,1763672706/streaming/tv3plus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="573" tvg-name="ТВ-3 (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/573.jpg" epg="true", ТВ-3 (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/cc3nFVjJBpDyWOxkLB53yA,1763672706/streaming/tv3plus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="574" tvg-name="Пятница! +2" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/574.jpg" epg="true", Пятница! +2
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/RX0XPHA5qdyy-OWnahFw-w,1763672707/streaming/fridayplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="575" tvg-name="Пятница! +4" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/575.jpg" epg="true", Пятница! +4
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/hUDwP2KcYTlO1AWE2H_gcw,1763672707/streaming/fridayplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="576" tvg-name="Пятница! +7" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/576.jpg" epg="true", Пятница! +7
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/i9B1HiyvRgog8FWsWqgX-w,1763672708/streaming/fridayplus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="577" tvg-name="Суббота! (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/577.jpg" epg="true", Суббота! (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/NZAH_cb4CXKO5Gtv_EwRKQ,1763672708/streaming/subbotaplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="578" tvg-name="Суббота! (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/578.jpg" epg="true", Суббота! (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/UOrjns-NpGaFGZbG7-YtKQ,1763672709/streaming/subbotaplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="579" tvg-name="ТНТ (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/579.jpg" epg="true", ТНТ (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/QiNYJ1BPFH26K9ojqE8g4A,1763672709/streaming/tntplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="580" tvg-name="ТНТ (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/580.jpg" epg="true", ТНТ (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/ZRDystBZtx6ci-SNqppIyA,1763672710/streaming/tntplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="581" tvg-name="ТНТ (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/581.jpg" epg="true", ТНТ (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/MND8Ca4SJEhALncYXaDqBQ,1763672710/streaming/tntplus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="582" tvg-name="ТНТ4 (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/582.jpg" epg="true", ТНТ4 (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/isamVoARK7X7jabuihrlcQ,1763672711/streaming/tnt4plus2/324/1/index.m3u8
+#EXTINF:-1 tvg-id="583" tvg-name="ТНТ4 (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/583.jpg" epg="true", ТНТ4 (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/6ox4R_3y7mGiexmu4AK6YA,1763672711/streaming/tnt4plus4/324/1/index.m3u8
+#EXTINF:-1 tvg-id="584" tvg-name="Солнце (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/584.jpg" epg="true", Солнце (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/P_4rFBYSuo-ds5skMxmVWA,1763672711/streaming/solnceplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="585" tvg-name="Солнце (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/585.jpg" epg="true", Солнце (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/2Gf3eCEYXtCr4EaISIe23g,1763672711/streaming/solnceplus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="586" tvg-name="Че! (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/586.jpg" epg="true", Че! (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/uBw__EApvuXy1f7nF412pA,1763672712/streaming/cheplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="587" tvg-name="Че! (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/587.jpg" epg="true", Че! (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/a-MlS5kwhgS5nGI3YbLapw,1763672712/streaming/cheplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="588" tvg-name="Че! (+7)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/588.jpg" epg="true", Че! (+7)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/yMaOWCRP0ytQS6l0kECB0w,1763672712/streaming/cheplus7/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="589" tvg-name="2х2 (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/589.jpg" epg="true", 2х2 (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/11kBrCoh1pULbxsKvW9bCA,1763672713/streaming/2x2plus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="590" tvg-name="2х2 (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/590.jpg" epg="true", 2х2 (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/fso0_79d4juigCsvSWA7iw,1763672713/streaming/2x2plus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="591" tvg-name="Карусель (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/591.jpg" epg="true", Карусель (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/cOYqHvAJU3koimxXByR6Dw,1763672714/streaming/karuselplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="592" tvg-name="Карусель (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/592.jpg" epg="true", Карусель (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/mU4X39BdsffojMr0CpDEMg,1763672714/streaming/karuselplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="593" tvg-name="Карусель (+6)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/593.jpg" epg="true", Карусель (+6)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/3oMeL4TSx0WE6B3QsA47ww,1763672715/streaming/karuselplus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="594" tvg-name="Россия К (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/594.jpg" epg="true", Россия К (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/heDjrnvnicZul4VmhRwzlw,1763672715/streaming/rossiakplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="595" tvg-name="Россия К (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/595.jpg" epg="true", Россия К (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/LhC2t4Uey73mQVgEKZzrvA,1763672716/streaming/rossiakplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="596" tvg-name="Россия К (+6)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/596.jpg" epg="true", Россия К (+6)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/ZQkgZ2E8cYbxm30txz0vXw,1763672716/streaming/rossiakplus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="597" tvg-name="Спас (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/597.jpg" epg="true", Спас (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/lMaqUcRzAhKUWcDJRpeQog,1763672717/streaming/spasplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="598" tvg-name="Спас (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/598.jpg" epg="true", Спас (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/wVr2lfPPnqFDPZDbb8C3xg,1763672717/streaming/spasplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="599" tvg-name="Спас (+6)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/599.jpg" epg="true", Спас (+6)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/0sAMKOvB0c_h2NH-cthCVA,1763672718/streaming/spasplus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="600" tvg-name="Звезда (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/600.jpg" epg="true", Звезда (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/3Ucjt1343os_TXto1r_2dA,1763672718/streaming/zvezdaplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="601" tvg-name="Звезда (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/601.jpg" epg="true", Звезда (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/XiC1VG50nNyauEIXLFlrLQ,1763672719/streaming/zvezdaplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="602" tvg-name="Мир (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/602.jpg" epg="true", Мир (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/Qv-6uUqeYSpHe1uz686l_g,1763672720/streaming/mirplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="603" tvg-name="Мир (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/603.jpg" epg="true", Мир (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/J6q2KJkPGQfCoWdg2Pqx5Q,1763672720/streaming/mirplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="604" tvg-name="Мир (+6)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/604.jpg" epg="true", Мир (+6)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/d4qKaMZ19xYj9EGlo_CQUQ,1763672721/streaming/mirplus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="605" tvg-name="Муз ТВ (+2)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/605.jpg" epg="true", Муз ТВ (+2)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/Yjq8UvfdilI0jQl2NU5Cbg,1763672721/streaming/muztvplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="606" tvg-name="Муз ТВ (+4)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/606.jpg" epg="true", Муз ТВ (+4)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/N1HXiRAk3K1dlxt95rEF9w,1763672721/streaming/muztvplus4/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="607" tvg-name="Муз ТВ (+6)" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/607.jpg" epg="true", Муз ТВ (+6)
+#EXTGRP:Общероссийские +
+https://mhd128.iptv2022.com/p/k5S89sb7PValO0swx3KA5Q,1763672722/streaming/muztvplus6/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="608" tvg-name="EROX" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/608.jpg" epg="true", EROX
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/uY0iMSuEwNrjuc6uZvF6ag,1763672722/streaming/erox/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="609" tvg-name="Red Lips" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/609.jpg" epg="true", Red Lips
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/UiH_vAFhQ3kxAbkLbQ5BsQ,1763672722/streaming/redlips/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="610" tvg-name="Blue Hustler" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/610.jpg" epg="true", Blue Hustler
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/IoohMynUkiWRdfm_IWxCiA,1763672723/streaming/bluehustler/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="611" tvg-name="Barely legal" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/611.jpg" epg="true", Barely legal
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/UN5k9zMTV1Nf-WQxHZVj4Q,1763672723/streaming/barelylegal/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="612" tvg-name="Eromania" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/612.jpg" epg="true", Eromania
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/Ptu6HM8PaRvVN0UlWOqZ0A,1763672724/streaming/eromania/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="613" tvg-name="Шалун" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/613.jpg" epg="true", Шалун
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/5KDeGw6-QKf5dHskjYRS6w,1763672724/streaming/shalunhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="614" tvg-name="Exxxotica" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/614.jpg" epg="true", Exxxotica
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/5r2-0q4QMmApTFwxQ16EkQ,1763672725/streaming/exotica/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="615" tvg-name="Русская ночь" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/615.jpg" epg="true", Русская ночь
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/_y403vsAEV1LhOD86SuP2Q,1763672725/streaming/rusnight/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="616" tvg-name="Brazzers TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/616.jpg" epg="true", Brazzers TV
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/wdrU4LXS1UsNdI1vDLIaiQ,1763672726/streaming/brazzers/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="617" tvg-name="Babes TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/617.jpg" epg="true", Babes TV
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/9uQj4XoVawcQGKCM_gDXGg,1763672726/streaming/babes_tv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="618" tvg-name="Playboy TV" tvg-logo="http://levshanov.tlkf.ru:8080/icon1/618.jpg" epg="true", Playboy TV
+#EXTGRP:Взрослые
+https://mhd128.iptv2022.com/p/vKceLmHul61ZKOGm84ErNQ,1763672726/streaming/playboy/324/1/tracks-v5a1/mono.m3u8
