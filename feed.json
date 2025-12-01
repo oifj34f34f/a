@@ -508,7 +508,7 @@
       ]
     },
     {
-      "id": "119256504#comment41",
+      "id": "119256505#comment42",
       "url": "https://issuetracker.google.com/issues/119256504#comment41",
       "content_text": "Fuck you",
       "content_html": "2025 and still not fixed. Translate v3 is adding random spaces as first character inside tags.<br><br>For example:<br>&lt;li&gt;Tekst&lt;/li&gt;<br><br>Is tranlated to:<br>&lt;li&gt; Text&lt;/li&gt;",
